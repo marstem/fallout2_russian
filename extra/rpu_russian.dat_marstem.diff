@@ -2916,6 +2916,11 @@ diff -r dat.org/text/russian/dialog/echermit.msg dat/text/russian/dialog/echermi
 < {115}{}{Хмм...Ты нравишься мне. Не трещать все время. Оставаться, торговать я и ты.}
 ---
 > {115}{}{Хмм... Ты нравишься мне. Не трещать все время. Оставаться, торговать я и ты.}
+diff -r dat.org/text/russian/dialog/eckaga2.msg dat/text/russian/dialog/eckaga2.msg
+9c9
+< {108}{}{Как заберет твою голову в качестве трофея.}
+---
+> {108}{}{Кага заберет твою голову в качестве трофея.}
 diff -r dat.org/text/russian/dialog/ecranger.msg dat/text/russian/dialog/ecranger.msg
 13,15c13,15
 < {112}{}{Что ж -- открываем сезон!}
