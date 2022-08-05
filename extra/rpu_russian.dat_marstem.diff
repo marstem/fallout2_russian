@@ -1162,7 +1162,7 @@ diff -r dat.org/text/russian/dialog/atribal.msg dat/text/russian/dialog/atribal.
 < {207}{}{Привет, собрат дикарь!}
 ---
 > {206}{}{Классно выглядишь!}
-> {207}{}{Привет, собрат-дикарь!}
+> {207}{}{Привет, брат!}
 diff -r dat.org/text/russian/dialog/bcbill.msg dat/text/russian/dialog/bcbill.msg
 6,7c6,7
 < {105}{}{Спасибо, что помогли Ребекке. Вы хорошо поступили.}
