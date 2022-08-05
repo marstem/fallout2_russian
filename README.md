@@ -13,6 +13,7 @@
 
 ![](https://github.com/marstem/fallout2_russian/blob/main/extra/diff_char.png) ![](https://github.com/marstem/fallout2_russian/blob/main/extra/diff_held.png)
 ![](https://github.com/marstem/fallout2_russian/blob/main/extra/diff_markus.png)
+![](https://github.com/marstem/fallout2_russian/blob/main/extra/diff_mason.png)
 ![](https://github.com/marstem/fallout2_russian/blob/main/extra/diff_skynet.png "это, кстати, одно и то же текстовое сообщение, информация о статусе робота была перепутана")
 
 Полный список исправлений [прилагается](https://github.com/marstem/fallout2_russian/blob/main/extra/rpu_russian.dat_marstem.diff).
