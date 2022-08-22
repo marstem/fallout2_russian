@@ -15459,6 +15459,10 @@ diff -r dat.org/text/russian/dialog/scsalbob.msg dat/text/russian/dialog/scsalbo
 ---
 > {130}{}{[Продолжать]}
 diff -r dat.org/text/russian/dialog/scsherif.msg dat/text/russian/dialog/scsherif.msg
+22c22
+< {121}{}{Из-вините! Что вы знаете об Убежище 13?}
+---
+> {121}{}{Из-вините! А вы случайно не знаете, где находится Убежище 13?}
 26c26
 < {125}{}{Типа каких?}
 ---
