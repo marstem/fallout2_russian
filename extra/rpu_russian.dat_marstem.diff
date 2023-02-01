@@ -26,10 +26,12 @@ diff -r dat.org/text/russian/cuts/artimer4.sve dat/text/russian/cuts/artimer4.sv
 ---
 > 90:Деревня умирает. Все наше будущее умирает вместе с ней.
 diff -r dat.org/text/russian/cuts/elder.sve dat/text/russian/cuts/elder.sve
-6c6
+6,7c6,7
 < 370:Но надежда все-таки есть. Крошечная надежда, о которой знают не многие.
+< 470:Старые диски говорят о неком предмете под названием Генератор Эдемских Кущ Компактный.
 ---
 > 370:Но надежда все-таки есть. Крошечная надежда, о которой знают немногие.
+> 470:Старые диски говорят о некоем предмете под названием Генератор Эдемских Кущ Компактный.
 diff -r dat.org/text/russian/cuts/intro.sve dat/text/russian/cuts/intro.sve
 2,3c2,3
 < 505:Покидая Убежище
@@ -82,10 +84,12 @@ diff -r dat.org/text/russian/cuts_female/artimer4.sve dat/text/russian/cuts_fema
 ---
 > 90:Деревня умирает. Все наше будущее умирает вместе с ней.
 diff -r dat.org/text/russian/cuts_female/elder.sve dat/text/russian/cuts_female/elder.sve
-6c6
+6,7c6,7
 < 370:Но надежда все-таки есть. Крошечная надежда, о которой знают не многие.
+< 470:Старые диски говорят о неком предмете под названием Генератор Эдемских Кущ Компактный.
 ---
 > 370:Но надежда все-таки есть. Крошечная надежда, о которой знают немногие.
+> 470:Старые диски говорят о некоем предмете под названием Генератор Эдемских Кущ Компактный.
 diff -r dat.org/text/russian/cuts_female/intro.sve dat/text/russian/cuts_female/intro.sve
 2,3c2,3
 < 505:Покидая Убежище
