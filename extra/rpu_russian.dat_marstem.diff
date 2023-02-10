@@ -17498,6 +17498,10 @@ diff -r dat.org/text/russian/dialog/vcdrtroy.msg dat/text/russian/dialog/vcdrtro
 ---
 > {378}{}{Ну ладно. У меня есть еще вопросы...}
 diff -r dat.org/text/russian/dialog/vcdwnbar.msg dat/text/russian/dialog/vcdwnbar.msg
+34c34
+< {133}{}{О...Что я могу сделать для вас, капитан?}
+---
+> {133}{}{О... Что я могу сделать для вас, капитан?}
 91,92c91,92
 < {190}{}{Ну, ладно. Слушайте, у меня были еще вопросы...}
 < {191}{}{О. Ну, ладно, спасибо за совет.}
@@ -20328,6 +20332,10 @@ diff -r dat.org/text/russian/game/scrname.msg dat/text/russian/game/scrname.msg
 < {322}{}{Дым}
 ---
 > {322}{}{Дымок}
+706c706
+< {806}{}{Красная героиня}
+---
+> {806}{}{Рыжая героиня}
 734c734
 < {834}{}{Якуза}
 ---
