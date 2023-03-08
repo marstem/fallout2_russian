@@ -20752,10 +20752,6 @@ diff -r dat.org/text/russian/game/scrname.msg dat/text/russian/game/scrname.msg
 < {834}{}{Якуза}
 ---
 > {834}{}{Якудза}
-740c740
-< {840}{}{Дым}
----
-> {840}{}{Дымок}
 1103c1103
 < {1203}{}{Тощак}
 ---
