@@ -1,5 +1,6 @@
 Only in dat/art: russian
 Only in dat.org/art: splash
+Only in dat/text/russian: Translations.ini
 diff -r dat.org/text/russian/credits.txt dat/text/russian/credits.txt
 115a116
 > Marstem
