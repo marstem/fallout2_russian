@@ -1,6 +1,5 @@
 Only in dat/art: russian
 Only in dat.org/art: splash
-Only in dat/text/russian: Translations.ini
 diff -r dat.org/text/russian/credits.txt dat/text/russian/credits.txt
 115a116
 > Marstem
@@ -14668,6 +14667,10 @@ diff -r dat.org/text/russian/dialog/ncwritee.msg dat/text/russian/dialog/ncwrite
 < {203}{}{(Поет.) "Нам не нужен другой герой, мы не хотим знать дорогу домой..."}
 ---
 > {203}{}{[Поет] "Нам не нужен другой герой, мы не хотим знать дорогу домой..."}
+122c122
+< {397}{}{Ищешь спиртное - иди на север, на вокзал... тут мы его не продаем.}
+---
+> {397}{}{Ищешь спиртное - иди на север, работорговец, на вокзал... тут мы его не продаем.}
 diff -r dat.org/text/russian/dialog/newr1.msg dat/text/russian/dialog/newr1.msg
 295c295
 < {705}{}{Тощак}
