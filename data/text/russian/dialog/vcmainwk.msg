@@ -242,7 +242,7 @@
 {341}{}{Да уж, конечно, папочка.}
 {342}{}{2 секунды}
 {343}{}{Все затухает на 3 секунды}
-{344}{}{Эй! Хорошо, что вернулись. А мне говорили, что вы были на юге, топили старые танкеры и взрывали нефтяные вышки.}
+{344}{}{Эй! С возвращеньицем. Слышала, вы были на югах, снаряжали старые танкеры и взрывали нефтяные вышки.}
 {345}{}{Ну что, захотелось немного мира и покоя, мистер Великий Герой?}
 {346}{}{Ну что, захотелось немного мира и покоя, мисс Великая Героиня?}
 {347}{}{Ги-лой? Хи-хи! Ик!}
@@ -261,10 +261,10 @@
 {360}{VCVAL31}{По-моему, у вас нет ничего такого, чем я могла бы заняться. Я по большей части чиню пистолеты, винтовки, такого рода вещи.}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{VCVAL1}{Well, if it isn't my Dad's "boss." Did you WANT something, or are you just going to stand there gawking like a moron?}
-{7701}{VCVAL2}{Yes?! Did you WANT something, or are you just going to stand there gawking like a moron?}
-{7702}{VCVAL26}{Heh-heh. You've got a sarcastic edge. I like that. As for ol' "Dad"... well... hmmm. I'll try and be a little more civil. For a while, anyway. Um... make sure he stays out of trouble, all right?}
-{7703}{VCVAL32}{I could put a speed loader on that magnum of yours for $800. Hmmmm. That Desert Eagle you have... I could give it an expanded magazine, if you want. That'll cost $1000.}
-{7704}{VCVAL35}{That assault rifle you got there... I can give it an expanded magazine for $1500. Hmmmm. I've got a low-light scope I can put on that FN FAL you got for $3500.}
-{7705}{VCVAL44}{Hey! Glad you made it back. Last I heard, you were traveling down south, gunning up old tankers and blowing up oil derricks. You come back here for a little peace and quiet, Mr. Big Hero?}
-{7706}{VCVAL45}{Hey! Glad you made it back. Last I heard, you were traveling down south, gunning up old tankers and blowing up oil derricks. You come back here for a little peace and quiet, Ms. Big Heroine?}
+{7700}{VCVAL1}{Батюшки, да это же "босс" моего папочки. Вам что-нибудь нужно, или вы собираетесь торчать тут и тупо пялиться на меня?}
+{7701}{VCVAL2}{Да?! Вам что-нибудь нужно, или вы собираетесь торчать тут и тупо пялиться на меня?}
+{7702}{VCVAL26}{Хе-хе. Язык у тебя как бритва. Мне это нравится. А что до "папочки"... ну... Хммм. Я попытаюсь слегка окультуриться. По крайней мере, на время. Ну... вы уж проследите, чтобы он не попал в беду, хорошо?}
+{7703}{VCVAL32}{Я могу поставить ускоритель перезарядки на ваш Магнум за $800. Хмммм. Этот ваш Дезерт Игл... Если хотите, я могу поставить увеличенный магазин. Это будет стоить $1000.}
+{7704}{VCVAL35}{Эта ваша штурмовая винтовка... Я могу поставить увеличенный магазин за $1500. Хмммм. У меня есть прибор ночного видения, который я могу установить на ваш FN FAL за $3500.}
+{7705}{VCVAL44}{Эй! С возвращеньицем. Слышала, вы были на югах, снаряжали старые танкеры и взрывали нефтяные вышки. Ну что, захотелось немного мира и покоя, мистер Великий Герой?}
+{7706}{VCVAL45}{Эй! С возвращеньицем. Слышала, вы были на югах, снаряжали старые танкеры и взрывали нефтяные вышки. Ну что, захотелось немного мира и покоя, мисс Великая Героиня?}

@@ -109,4 +109,4 @@
 {600}{}{Спасибо за информацию, Гордон. Пока.}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{GORD2}{Hello again Smoothskin.}
+{7700}{GORD2}{И снова здравствуйте, гладкокожая.}

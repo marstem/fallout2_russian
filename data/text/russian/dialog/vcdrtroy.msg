@@ -295,9 +295,9 @@
 {399}{}{Вы объяснили доктору Трою процесс производства винта.}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{TROY8}{A pleasure to meet you, Citizen. If you are ever in need of my services, you can find me here.}
-{7701}{TROY27}{Yes, that's what I needed a Jet sample for. This drug's stranglehold needs to be stopped before it can spread. Why... with the information you've provided, we could manufacture the antidote today! Hold on.}
-{7702}{TROY28}{Yes... and unsuccessfully. This drug's stranglehold needs to be stopped before it can spread. Why... with the information you've provided, we could manufacture the antidote today! Hold on.}
-{7703}{TROY42}{You do? Excellent! Thank you, my friend... you have no idea how important this is to my work. Here is your payment, as promised.}
-{7704}{TROY57}{I have some good news. I was able to make an antidote from that sample of Jet you gave me. Once taken, it nullifies Jet's withdrawal symptoms and also... removes the euphoria associated with the drug.}
-{7705}{TROY58}{Good news... I was able to use the information you gave me to make an antidote. Once taken, it nullifies Jet's withdrawal symptoms and also... removes the euphoria associated with the drug.}
+{7700}{TROY8}{Приятно познакомиться, гражданин. Если вам понадобятся мои услуги, вы всегда можете найти меня здесь.}
+{7701}{TROY27}{Да, затем мне и нужен был образец винта. Этот наркотик такой сильный, нужно остановить его, пока он не распространился повсеместно. И... благодаря вашей информации мы сможем сегодня же сделать противоядие! Подождите.}
+{7702}{TROY28}{Да... и безуспешно. Этот наркотик такой сильный, нужно остановить его, пока он не распространился повсеместно. И... благодаря вашей информации мы сможем сегодня же сделать противоядие! Подождите.}
+{7703}{TROY42}{Правда? Замечательно! Спасибо вам огромное... вы и представления не имеете, как это важно для моей работы. Вот ваши деньги, как я и обещал.}
+{7704}{TROY57}{У меня хорошие новости. Мне удалось приготовить противоядие из того образца винта, который вы мне принесли. Противоядие избавляет человека от ломки, а также... устраняет эйфорию от приема наркотика.}
+{7705}{TROY58}{Хорошие новости... Благодаря вашей информации мне удалось сделать противоядие. Противоядие избавляет человека от ломки, а также... устраняет эйфорию от приема наркотика.}

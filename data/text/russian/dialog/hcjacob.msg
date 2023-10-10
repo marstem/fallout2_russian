@@ -147,5 +147,5 @@
 {316}{JACOB9}{Спасибо.}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{JACOB13}{In that case, I'll give you the real history. A human named Jacob -- I was named after him -- founded this place. Then mutant Marcus came along and forced everyone under his rule. }
-{7701}{JACOB35}{Excellent, my friend! Here. Take this explosive switch. Hook it up to the air purifier and get the hell out of there. We've arranged it so that the town's mutants will be in the mine. Just let me know when you're ready to go.}
+{7700}{JACOB13}{В таком случае я расскажу тебе правдивую историю этого города. Этот город основал человек по имени Джейкоб, меня назвали в его честь. Затем пришел мутант Маркус и силой захватил власть. }
+{7701}{JACOB35}{Отлично, мой друг! Вот. Возьми этот взрыватель. Установи его в очистителе воздуха и сматывайся оттуда. Мы установили его на разгар рабочего дня, когда там будут все мутанты города. Просто дай мне знать, когда все будет готово.}

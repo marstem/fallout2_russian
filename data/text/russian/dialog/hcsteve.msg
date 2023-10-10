@@ -109,6 +109,6 @@
 {305}{}{Над этой ублюдочной крысой!}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{STEVE18}{Oh. You again. You want to know more?}
-{7701}{STEVE19}{Hi again. You want to know more?}
-{7702}{STEVE20}{Welcome back. You want to know more?}
+{7700}{STEVE18}{О, опять вы. Вы хотите узнать больше?}
+{7701}{STEVE19}{Привет еще раз. Вы хотите узнать больше?}
+{7702}{STEVE20}{С возвращением. Вы хотите узнать больше?}

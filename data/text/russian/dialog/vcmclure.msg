@@ -262,20 +262,20 @@
 {370}{}{Хорошо. Тогда я не буду вам мешать.}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{MCCLR9}{Of course, Captain. What is it you would like to know?}
-{7701}{MCCLR10}{Of course, Citizen. What is it you would like to know?}
-{7702}{MCCLR32}{Things have been tough these last two years. The NCR has been getting more aggressive in their attempts to get Vault City to join the Republic. They tell us that if we were to join, they would be able to defend us from the raider attacks on our city. As of late, these raider attacks have become more brutal. On top of all of this, we have ghouls in Gecko contaminating our groundwater.}
-{7703}{MCCLR33}{Things have been tough these last two years. The NCR has been getting more aggressive in their attempts to get Vault City to join the Republic. They tell us that if we were to join, they would be able to defend us from the raider attacks on our city. As of late, these raider attacks have become more brutal.}
-{7704}{MCCLR34}{Things have been tough these last two years. The NCR has been getting more aggressive in their attempts to get Vault City to join the Republic. On top of all of this, we have ghouls in Gecko contaminating our groundwater.}
-{7705}{MCCLR53}{Excellent! I was worried that the radiation build-up might force us to relocate. You are to be commended on a job well done. Vault City prevails, Citizen.}
-{7706}{MCCLR54}{Excellent! I was worried that the radiation build-up might force us to relocate. You are to be commended on a job well done. Vault City, prevails, Captain.}
-{7707}{MCCLR55}{Excellent! I was worried that the radiation build-up might force us to relocate. You are to be commended on a job well done. Here's your Citizenship papers. If you ever need anything, come see me.}
-{7708}{MCCLR56}{Yes, you mentioned that. Well done, Citizen.}
-{7709}{MCCLR57}{Yes, you mentioned that. Well done, Captain.}
-{7710}{MCCLR58}{Yes, you mentioned that. Well done.}
-{7711}{MCCLR68}{Very well, Captain. You have my permission to use the Vault computer and optimize the reactor disk. You can find it on the third level of the Vault, near the Operations Room.}
-{7712}{MCCLR69}{Very well, Citizen. You have my permission to use the Vault computer and optimize the reactor disk. You can find it on the third level of the Vault, near the Operations Room.}
-{7713}{MCCLR71}{It is done. Here you go. I'll keep the economic disk and study it some more... Perhaps I can persuade the Council to enter negotiations with Gecko to trade for their power. The data disk would be a strong argument in of itself.}
-{7714}{MCCLR72}{This is quite interesting. I'll keep the economic disk and study it some more... Perhaps I can persuade the Council to enter negotiations with Gecko to trade for their power. The data disk would be a strong argument in of itself.}
-{7715}{MCCLR76}{Excellent! Let me take the reactor disk, and I'll have the Vault central computer optimize it.}
-{7716}{MCCLR77}{All right. Let me take the reactor disk, and I'll have the Vault central computer optimize it.}
+{7700}{MCCLR9}{Конечно, капитан. Что бы вы хотели узнать?}
+{7701}{MCCLR10}{Конечно, гражданин. Что бы вы хотели узнать?}
+{7702}{MCCLR32}{Наше положение осложнилось за последние два года. НКР становится все агрессивнее в своих попытках заставить Город Убежища вступить в Республику. Они говорят, что если бы мы присоединились к ним, они могли бы защищать нас от нападений налетчиков. А в последнее время нападения становятся все более жестокими. И в довершение всех бед гули из Гекко загрязняют наши грунтовые воды.}
+{7703}{MCCLR33}{Наше положение осложнилось за последние два года. НКР становится все агрессивнее в своих попытках заставить Город Убежища вступить в Республику. Они говорят, что если бы мы присоединились к ним, они могли бы защищать нас от нападений налетчиков. А в последнее время нападения становятся все более жестокими.}
+{7704}{MCCLR34}{Наше положение осложнилось за последние два года. НКР становится все агрессивнее в своих попытках заставить Город Убежища вступить в Республику. И в довершение всех бед гули из Гекко загрязняют наши грунтовые воды.}
+{7705}{MCCLR53}{Восхитительно! Я боялся, что повышение уровня радиации заставит нас переселиться. Вы прекрасно выполнили свою работу. Да здравствует Город Убежища, гражданин.}
+{7706}{MCCLR54}{Восхитительно! Я боялся, что повышение уровня радиации заставит нас переселиться. Вы прекрасно выполнили свою работу. Да здравствует Город Убежища, капитан.}
+{7707}{MCCLR55}{Восхитительно! Я боялся, что повышение уровня радиации заставит нас переселиться. Вы прекрасно выполнили свою работу. Вот ваше удостоверение гражданина. Если вам что-нибудь понадобится, приходите ко мне.}
+{7708}{MCCLR56}{Да, вы упоминали об этом. Отличная работа, гражданин.}
+{7709}{MCCLR57}{Да, вы упоминали об этом. Отличная работа, капитан.}
+{7710}{MCCLR58}{Да, вы упоминали об этом. Хорошая работа.}
+{7711}{MCCLR68}{Очень хорошо, капитан. Я даю вам разрешение воспользоваться компьютером Убежища и оптимизировать реакторный диск. Вы найдете его на третьем уровне Убежища рядом с центром управления.}
+{7712}{MCCLR69}{Очень хорошо, гражданин. Я даю вам разрешение воспользоваться компьютером Убежища и оптимизировать реакторный диск. Вы найдете его на третьем уровне Убежища рядом с центром управления.}
+{7713}{MCCLR71}{Все готово. Вот, пожалуйста. Я оставлю диск у себя и хорошенько изучу его... Возможно, мне удастся убедить Совет начать переговоры с Гекко относительно излишков энергии. Диск с данными сам по себе будет достаточно сильным аргументом.}
+{7714}{MCCLR72}{Это очень интересно. Я оставлю диск у себя и хорошенько изучу его... Возможно, мне удастся убедить Совет начать переговоры с Гекко относительно излишков энергии. Диск с данными сам по себе будет достаточно сильным аргументом.}
+{7715}{MCCLR76}{Превосходно! Позвольте мне взять реакторный диск, и я оптимизирую его на центральном компьютере Убежища.}
+{7716}{MCCLR77}{Ясно. Позвольте мне взять реакторный диск, и я оптимизирую его на центральном компьютере Убежища.}

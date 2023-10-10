@@ -127,8 +127,8 @@
 {226}{}{Вы сдали экзамен на гражданство и стали гражданином Города Убежища.}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{GREG13}{Very well. Here are forms 5028, 6112, and the Pip-Boy answer console. Please be sure to fill in each circle COMPLETELY. Now, if you would take a seat over here...}
-{7701}{GREG14}{Hmmm. Well, that is your right, though I doubt it will matter. Here are forms 5028, 6112, and the Pip-Boy answer console. Please be sure to fill in each circle COMPLETELY. Now, if you would take a seat over here...}
-{7702}{GREG20}{Well, I regret to inform you I cannot grant you Citizenship at this time. Frankly, you don't seem to have the intelligence necessary to grasp higher mathematics. }
-{7703}{GREG21}{Well, I regret to inform you I cannot grant you Citizenship at this time. If I may say so, your grasp of spatial relations borders on imperceptive.}
-{7704}{GREG22}{Well, I regret to inform you I cannot grant you Citizenship at this time. If I may say so, you don't seem to test well. Perhaps you'll have better luck next time.}
+{7700}{GREG13}{Хорошо. Вот формы 5028, 6112 и пульт ответов для Пип-Боя. Пожалуйста, ПОЛНОСТЬЮ заполняйте каждый кружок. А теперь присаживайтесь здесь...}
+{7701}{GREG14}{Хммм. Что ж, это ваше право. Хотя я сомневаюсь, что это имеет смысл. Вот формы 5028, 6112 и пульт ответов для Пип-Боя. Пожалуйста, ПОЛНОСТЬЮ заполняйте каждый кружок. А теперь присаживайтесь здесь...}
+{7702}{GREG20}{Итак, я вынужден сообщить, что на этот раз вы не получите гражданства. Честно говоря, по-моему, вашего интеллекта недостаточно для изучения высшей математики. }
+{7703}{GREG21}{Итак, я вынужден сообщить, что на этот раз вы не получите гражданства. Если можно так выразиться, ваше понимание астрономии и космогонии стремится к нулю.}
+{7704}{GREG22}{Итак, я вынужден сообщить, что на этот раз вы не получите гражданства. Если можно так выразиться, вы не очень удачно прошли тест. Возможно, в следующий раз вам больше повезет.}

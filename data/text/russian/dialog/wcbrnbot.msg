@@ -115,6 +115,6 @@
 {432}{}{Перемещение.}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{SKY2}{Skynet thanks the human.                                            Skynet wishes to ask favor.                                        Skynet wishes to travel with human.                              [This contraption could be useful.]}
-{7701}{SKY9}{Skynet has learned all necessary information at this location.        [It's right where you left it.]}
-{7702}{SKY10}{Waaaaa......tinnnnnng.        [It's right where you left it.]}
+{7700}{SKY2}{Скайнет благодарит человека.                                      Скайнет необходима помощь.                                      Скайнет хочет путешествовать с человеком.                  [Это приспособление может быть полезно.]}
+{7701}{SKY9}{Скайнет получил всю необходимую информацию об этом месте.                                                                     [Стоит на том же месте, где и оставили.]}
+{7702}{SKY10}{Ждааааа......аааааать.                                                  [Стоит на том же месте, где и оставили.]}
