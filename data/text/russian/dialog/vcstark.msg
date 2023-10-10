@@ -334,8 +334,8 @@
 {1422}{}{Ну, если так посмотреть, то я согласен. Им так будет лучше. Пока.}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{STARK75}{If they keep poisoning our groundwater, we may be forced to take military action. Now do you want the job or not?}
-{7701}{STARK76}{I want to see how much damage the plant meltdown caused to the area. Now do you want the job or not?}
-{7702}{STARK77}{We may be forced to take military action against them in the future, especially if they start poisoning the groundwater again. Now do you want the job or not?}
-{7703}{STARK78}{That so? Heh. Well... all right then. Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
-{7704}{STARK83}{That so? Heh. All right then. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
+{7700}{STARK75}{Если они будут и дальше отравлять наши грунтовые воды, нам придется применить силу. Так нужна тебе эта работа или нет?}
+{7701}{STARK76}{Я хочу посмотреть, насколько серьезный урон нанесла этому району взорванная станция. Так нужна тебе эта работа или нет?}
+{7702}{STARK77}{Возможно, в будущем нам придется предпринять против них военную акцию, особенно если они снова начнут отравлять грунтовые воды. Так нужна тебе эта работа или нет?}
+{7703}{STARK78}{Вот как? Ха. Что ж... ну ладно. Отличная работа. Перекачай информацию в мой Пип-Бой, а я занесу ее в компьютеры патрульных.}
+{7704}{STARK83}{Вот как? Ха. Что ж... ну ладно. Перекачай информацию в мой Пип-Бой, а я занесу ее в компьютеры патрульных.}

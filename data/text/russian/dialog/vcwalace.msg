@@ -266,8 +266,8 @@
 {1314}{}{Вам больше незачем волноваться из-за этих налетчиков. Мне удалось убедить их проводника уйти. А без него им никогда не найти путь через горы.}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{WALL22}{Well, of course. Everyone desires an audience with the First Citizen. Sadly, her time is only for matters of the utmost importance. You don't look important enough to warrant her time, I'm afraid.}
-{7701}{WALL53}{Broken Hills is a mining town to the south. As I understand it, mutants mine the uranium, and they ship it here by caravan. They seem a bit shifty, but nice enough... well, nice enough for Outsiders, anyway. No offense.}
-{7702}{WALL68}{You are a merchant? Really. And what would you happen to be selling? Ore? Some of those filthy wasteland lizard skins?  (Glances at your companion.) Or are you looking to sell some Servants?}
-{7703}{WALL71}{Hmmmm. Very well. There IS a Day Pass fee for merchants, five hundred dollars. That includes full daytime trading privileges within Vault City walls and is good for up to five years after its issue date.}
-{7704}{WALL72}{Well, this sample is adequate. There IS a Day Pass fee for merchants, five hundred dollars. That includes full daytime trading privileges within Vault City walls and is good for up to five years after its issue date.}
+{7700}{WALL22}{Ну конечно. Все хотят получить аудиенцию у Первой Гражданки. К несчастью, ее время дорого, так что она занимается только делами чрезвычайной важности. Боюсь, вы не такая важная птица, чтобы тратить ее время.}
+{7701}{WALL53}{Брокен Хиллс - шахтерский городок на юге. Насколько я понимаю, уран добывают мутанты, они же доставляют его сюда караванами. Они, конечно, жулики, но вполне приятны... ну, для чужеземцев, разумеется. Не сочтите за оскорбление.}
+{7702}{WALL68}{Вы торговец? Ах вот как. И что же это вы продаете? Руду? Какие-нибудь грязные шкурки ящериц? [Смотрит на ваших спутников.] Или вы хотите продать слуг?}
+{7703}{WALL71}{Хмммм. Очень хорошо. Для торговцев дневной пропуск платный, пятьсот долларов. Сюда включено разрешение на торговлю в стенах Города Убежища в течение всего дня. Пропуск выписывается сроком на пять лет.}
+{7704}{WALL72}{Что ж, это вполне удовлетворительный образец. Для торговцев дневной пропуск платный, пятьсот долларов. Сюда включено разрешение на торговлю в стенах Города Убежища в течение всего дня. Пропуск выписывается сроком на пять лет.}

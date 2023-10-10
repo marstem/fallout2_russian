@@ -819,7 +819,7 @@ diff -r dat.org/text/russian/dialog/acklint.msg dat/text/russian/dialog/acklint.
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
 > {7700}{KLINT1}{Доброго тебе дня, Избранный. Ты еще не прошел испытание Старейшей, я не могу тебя пропустить.}
-> {7701}{KLINT2}{(sigh) Избранный. Иди в храм. Там испытание. Не иди сюда, пока не пройдешь испытание. Слушай Старейшую. Марш!}
+> {7701}{KLINT2}{[вздох] Избранный. Иди в храм. Там испытание. Не иди сюда, пока не пройдешь испытание. Слушай Старейшую. Марш!}
 > {7702}{KLINT3}{Прошу прощения, Избранный, но я не могу пропустить тебя. Если хочешь вернуться в деревню, пройди сначала испытание.}
 diff -r dat.org/text/russian/dialog/acmorlis.msg dat/text/russian/dialog/acmorlis.msg
 1c1
@@ -13066,7 +13066,7 @@ diff -r dat.org/text/russian/dialog/mcbaltha.msg dat/text/russian/dialog/mcbalth
 64a65,67
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{BAL7}{Did you say Stranger? Yes, I think I've heard of you. One of the guards on a passing caravan mentioned some good things about a person with that name. I know we've just met, but I could really use your help.}
+> {7700}{BAL7}{Как вы сказали вас зовут? Я, кажется, слышал о вас. Один из охранников проходящего через город каравана упоминал ваше имя, говорил, что это хороший человек. Я знаю, мы практически незнакомы, но мне срочно требуется ваша помощь.}
 diff -r dat.org/text/russian/dialog/mcbess.msg dat/text/russian/dialog/mcbess.msg
 8c8
 < {131}{}{[Бесс издает тихое, страдальческое мычание.]}
@@ -24670,11 +24670,11 @@ diff -r dat.org/text/russian/dialog/vcstark.msg dat/text/russian/dialog/vcstark.
 334a335,341
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{STARK75}{If they keep poisoning our groundwater, we may be forced to take military action. Now do you want the job or not?}
-> {7701}{STARK76}{I want to see how much damage the plant meltdown caused to the area. Now do you want the job or not?}
-> {7702}{STARK77}{We may be forced to take military action against them in the future, especially if they start poisoning the groundwater again. Now do you want the job or not?}
-> {7703}{STARK78}{That so? Heh. Well... all right then. Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
-> {7704}{STARK83}{That so? Heh. All right then. Download the information into my Pip-Boy, and I'll log it into the patrol computers.}
+> {7700}{STARK75}{Если они будут и дальше отравлять наши грунтовые воды, нам придется применить силу. Так нужна тебе эта работа или нет?}
+> {7701}{STARK76}{Я хочу посмотреть, насколько серьезный урон нанесла этому району взорванная станция. Так нужна тебе эта работа или нет?}
+> {7702}{STARK77}{Возможно, в будущем нам придется предпринять против них военную акцию, особенно если они снова начнут отравлять грунтовые воды. Так нужна тебе эта работа или нет?}
+> {7703}{STARK78}{Вот как? Ха. Что ж... ну ладно. Отличная работа. Перекачай информацию в мой Пип-Бой, а я занесу ее в компьютеры патрульных.}
+> {7704}{STARK83}{Вот как? Ха. Что ж... ну ладно. Перекачай информацию в мой Пип-Бой, а я занесу ее в компьютеры патрульных.}
 diff -r dat.org/text/russian/dialog/vcsteve.msg dat/text/russian/dialog/vcsteve.msg
 9c9
 < {108}{}{Мммм... (Смотрит в брошюру, которую держит в руке). Э... вы задали неправильный вопрос. Здесь нет на него ответа.}
@@ -24961,11 +24961,11 @@ diff -r dat.org/text/russian/dialog/vcwalace.msg dat/text/russian/dialog/vcwalac
 266a267,273
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{WALL22}{Well, of course. Everyone desires an audience with the First Citizen. Sadly, her time is only for matters of the utmost importance. You don't look important enough to warrant her time, I'm afraid.}
-> {7701}{WALL53}{Broken Hills is a mining town to the south. As I understand it, mutants mine the uranium, and they ship it here by caravan. They seem a bit shifty, but nice enough... well, nice enough for Outsiders, anyway. No offense.}
-> {7702}{WALL68}{You are a merchant? Really. And what would you happen to be selling? Ore? Some of those filthy wasteland lizard skins?  (Glances at your companion.) Or are you looking to sell some Servants?}
-> {7703}{WALL71}{Hmmmm. Very well. There IS a Day Pass fee for merchants, five hundred dollars. That includes full daytime trading privileges within Vault City walls and is good for up to five years after its issue date.}
-> {7704}{WALL72}{Well, this sample is adequate. There IS a Day Pass fee for merchants, five hundred dollars. That includes full daytime trading privileges within Vault City walls and is good for up to five years after its issue date.}
+> {7700}{WALL22}{Ну конечно. Все хотят получить аудиенцию у Первой Гражданки. К несчастью, ее время дорого, так что она занимается только делами чрезвычайной важности. Боюсь, вы не такая важная птица, чтобы тратить ее время.}
+> {7701}{WALL53}{Брокен Хиллс - шахтерский городок на юге. Насколько я понимаю, уран добывают мутанты, они же доставляют его сюда караванами. Они, конечно, жулики, но вполне приятны... ну, для чужеземцев, разумеется. Не сочтите за оскорбление.}
+> {7702}{WALL68}{Вы торговец? Ах вот как. И что же это вы продаете? Руду? Какие-нибудь грязные шкурки ящериц? [Смотрит на ваших спутников.] Или вы хотите продать слуг?}
+> {7703}{WALL71}{Хмммм. Очень хорошо. Для торговцев дневной пропуск платный, пятьсот долларов. Сюда включено разрешение на торговлю в стенах Города Убежища в течение всего дня. Пропуск выписывается сроком на пять лет.}
+> {7704}{WALL72}{Что ж, это вполне удовлетворительный образец. Для торговцев дневной пропуск платный, пятьсот долларов. Сюда включено разрешение на торговлю в стенах Города Убежища в течение всего дня. Пропуск выписывается сроком на пять лет.}
 diff -r dat.org/text/russian/dialog/vibaron.msg dat/text/russian/dialog/vibaron.msg
 2,3c2,3
 < {101}{}{Вы видите мистера Бейрона, хозяина каравана.}

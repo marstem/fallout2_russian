@@ -64,4 +64,4 @@
 {2199}{}{Это действительно пневматическое ружье Джонни... Но я не верю, что он мертв! Пожалуйста, продолжайте поиски! Я уверен, что он все еще жив!}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{BAL7}{Did you say Stranger? Yes, I think I've heard of you. One of the guards on a passing caravan mentioned some good things about a person with that name. I know we've just met, but I could really use your help.}
+{7700}{BAL7}{Как вы сказали вас зовут? Я, кажется, слышал о вас. Один из охранников проходящего через город каравана упоминал ваше имя, говорил, что это хороший человек. Я знаю, мы практически незнакомы, но мне срочно требуется ваша помощь.}
