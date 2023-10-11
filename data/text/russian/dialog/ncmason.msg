@@ -197,22 +197,22 @@
 {900}{MASON68}{Ее имя Никки. Она внизу в задней комнате. [Мэйсон задумчиво смотрит куда-то вдаль.] Уух, у нее отличная задница.}
 {901}{}{У меня есть еще вопросы...}
 {1305}{}{.}
-{5735}{}{. Мистер Сальваторе сказал о твоем повышении. Поздравляю. У меня тут для тебя кое-что есть... [протягивает вам охапку предметов] Поосторожнее с этим...}
+{5735}{}{. Мистер Сальваторе сказал о твоем повышении. Поздравляю. У меня тут для тебя кое-что есть, ну-ка... [протягивает вам охапку предметов] Поосторожнее с этим...}
 {5765}{}{.}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{MASON9}{(His face reddens. He suddenly speaks to the air.) Excuse me, Mr. Salvatore, this is Mason. This... man... says he's got something you wanna hear.}
-{7701}{MASON10}{(His face reddens. He suddenly speaks to the air.) Excuse me, Mr. Salvatore, this is Mason. This... woman... says she's got something you wanna hear.}
-{7702}{MASON13}{I WARNED you, asshole, now you're... (Mason suddenly pauses, listening to something you can't hear. After a moment, his teeth clench.) Mr. Salvatore says you may come in... Wanderer.}
-{7703}{MASON14}{(Mason stops you.) Look... (Leans in, lowers voice.) ...Some ground rules, boy. Don't waste Mr. Salvatore's time, and don't give him any bullshit, or you'll answer to me.}
-{7704}{MASON15}{Look... (Leans in, lowers voice.) ...Some ground rules, girl. Don't waste Mr. Salvatore's time, and don't give him any bullshit, or you'll answer to me.}
-{7705}{MASON18}{'Bout time you showed, boy. This bum that stole from Mr. Salvatore, his name's Lloyd. Mr. Salvatore wants him dead and that money he stole back. When you done the job, report back to ME, understand? Think you can handle that?}
-{7706}{MASON19}{'Bout time you showed, girl. This bum that stole from Mr. Salvatore, his name's Lloyd. Mr. Salvatore wants him dead and that money he stole back. When you done the job, report back to ME, understand? Think you can handle that?}
-{7707}{MASON20}{'Bout time you showed. Don't know why Mr. Salvatore would hire porn trash, but I ain't gonna question him on it. This bum that stole from Mr. Salvatore, his name's Lloyd. Mr. Salvatore wants him dead and that money he stole back. When you done the job, report back to ME, understand? Think you can handle that?}
-{7708}{MASON22}{He's been laying low, so tracking him down's gonna be YOUR job, boy. Best bet? Check some of the bars along Virgin street. Lloyd might be running another hustle there.}
-{7709}{MASON23}{He's been laying low, so tracking him down's gonna be YOUR job, girl. Best bet? Check some of the bars along Virgin street. Lloyd might be running another hustle there.}
-{7710}{MASON34}{(Stares at you in disbelief.) You screwed it up. We give you a simple job, and you screw. It. Up. You must be the STUPIDEST son of a bitch alive. (Sneers, reaches for weapons.) Time to die, tribal.}
-{7711}{MASON35}{(Stares at you in disbelief.) You screwed it up. We give you a simple job, and you screw. It. Up. You must be the STUPIDEST bitch alive. (Sneers, reaches for weapons.) Time to die, tribal.}
-{7712}{MASON48}{(As soon as he sees you, Mason sneers.) Just the dumb mother fucker I was looking for. You can't collect tribute from dead people. (Reaches for his weapons.) You done screwed up but GOOD.}
-{7713}{MASON59}{(Grunts.) Hey, there.... Mr. Salvatore sent word of yer promotion. Congrats. I got some stuff for you... lessee...(He hands you an armload of items.) Careful with that stuff...}
-{7714}{MASON61}{(Mason pauses, listening to something you can't hear. After a moment, his teeth clench.) Mr. Salvatore says you may come in, Wanderer.}
+{7700}{MASON9}{[Его лицо краснеет. Внезапно он говорит в пустоту.] Простите, мистер Сальваторе, это Мэйсон. Тут... мужик... говорит, у него есть что-то, что вы захотите услышать.}
+{7701}{MASON10}{[Его лицо краснеет. Внезапно он говорит в пустоту.] Простите, мистер Сальваторе, это Мэйсон. Тут... девка... говорит, у нее есть что-то, что вы захотите услышать.}
+{7702}{MASON13}{Я ПРЕДУПРЕДИЛ тебя, чмо, теперь тебе... [Мэйсон внезапно перестает говорить, слушает что-то, что вы не можете услышать. Через мгновение он скрипит зубами.] Мистер Сальваторе говорит, что ты можешь зайти... путник.}
+{7703}{MASON14}{[Мэйсон останавливает вас] Послушай... [наклоняется к вам, понижает голос] Несколько основных правил, парниша. Не трать время мистера Сальваторе впустую и не ври ему, или ответишь передо мной.}
+{7704}{MASON15}{Послушай... [наклоняется к вам, понижает голос] Несколько основных правил, дамочка. Не трать время мистера Сальваторе впустую и не ври ему, или ответишь передо мной.}
+{7705}{MASON18}{Ну наконец-то, парень. Этого козла, который обокрал мистера Сальваторе, зовут Ллойд. Мистер Сальваторе хочет, чтобы он сдох, ну и вернуть свои деньги. Когда сделаешь дело, сообщи МНЕ, понятно? Справишься?}
+{7706}{MASON19}{Ну наконец-то, дамочка. Этого козла, который обокрал мистера Сальваторе, зовут Ллойд. Мистер Сальваторе хочет, чтобы он сдох, ну и вернуть свои деньги. Когда сделаешь дело, сообщи МНЕ, понятно? Справишься?}
+{7707}{MASON20}{Ну наконец-то. Не знаю, зачем мистеру Сальваторе нанимать порнохлам, но я не буду его об этом спрашивать. Этого козла, который обокрал мистера Сальваторе, зовут Ллойд. Мистер Сальваторе хочет, чтобы он сдох, ну и вернуть свои деньги. Когда сделаешь дело, сообщи МНЕ, понятно? Справишься?}
+{7708}{MASON22}{Он очень низко залег, так что искать его по низам - ТВОЯ работа, парень. Лучший вариант? Проверь бары по Девичьей улице. Ллойд, возможно, срубает там очередной куш.}
+{7709}{MASON23}{Он очень низко залег, так что искать его по низам - ТВОЯ работа, дамочка. Лучший вариант? Проверь бары по Девичьей улице. Ллойд, возможно, срубает там очередной куш.}
+{7710}{MASON34}{[Неверяще смотрит на вас] Ты все запорол. Мы дали тебе простое дело, а ты. Его. Запорол. Ты должно быть ТУПЕЙШИЙ сукин сын на свете. [усмехается, тянется за оружием] Время умирать, дикарь.}
+{7711}{MASON35}{[Неверяще смотрит на вас] Ты все запорола. Мы дали тебе простое дело, а ты. Его. Запорола. Ты должно быть ТУПЕЙШАЯ сучка на свете. [усмехается, тянется за оружием] Время умирать, дикарка.}
+{7712}{MASON48}{[Как только Мэйсон вас замечает, он хмурится] А вот и тот тупой ублюдок, которого я искал. Нельзя взять дань с мертвеца. [тянется за оружием] Ты все запорол, но ЛАДНО.}
+{7713}{MASON59}{[Ворчит] Эй, вот... Мистер Сальваторе сказал о твоем повышении. Поздравляю. У меня тут для тебя кое-что есть, ну-ка... [протягивает вам охапку предметов] Поосторожнее с этим...}
+{7714}{MASON61}{[Мэйсон замолкает и прислушивается к чему-то за дверью. Через мгновение, скрипя зубами, он продолжает говорить.] Мистер Сальваторе говорит, что ты можешь зайти, путник.}

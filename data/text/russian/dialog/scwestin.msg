@@ -77,4 +77,4 @@
 {176}{}{Охо, его сердце бум бум.}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{WEST9}{Fine then. You do the job, I pay you. You say no, you don't get out of here alive. Well?}
+{7700}{WEST9}{Идет. Вы выполняете работу, я плачу вам. Если скажете нет, вам не выйти отсюда. Ясно?}

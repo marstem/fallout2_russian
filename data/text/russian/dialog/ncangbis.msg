@@ -201,10 +201,10 @@
 {1701}{}{, опять? О-о-о... }
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{ABSHP8}{You NEW or something? I'm Angela BISHOP. My Dad is the HEAD of Family Bishop. You work for him, which means you work for ME. You better do what I say, and I say you're coming with me. Now.}
-{7701}{ABSHP9}{You NEW or something? I'm Angela BISHOP. My Dad is the HEAD of Family Bishop. You better do what I say, and I say you're coming with me. Now.}
-{7702}{ABSHP13}{Sure can. Look: I got some Jet in my room... and NOT that crappy shit they give the dimestore hookers and junkies. Y'wanna fly?}
-{7703}{ABSHP25}{I heard about what you did to the Enclave, You. VERY impressive. I think you're just the person to help me with this... problem I have. }
-{7704}{ABSHP26}{Well, well: If it isn't Golden Globes's latest hottie. I saw your latest movie. VERY impressive. I think you're just the person to help me with this... problem I have. }
-{7705}{ABSHP27}{Well, well: If it isn't Jungle Gym's latest champion. I heard about your exploits in the ring. VERY impressive. I think you're just the person to help me with this... problem I have. }
-{7706}{ABSHP44}{Yeah, you start walking. Daddy's gonna start hearing ALL sorts of things about you soon. Just you wait. (Turns away.)}
+{7700}{ABSHP8}{ОТКУДА тебя выкопали? Я Анжела БИШОП. Мой отец - ГЛАВА семьи Бишоп. Ты работаешь на него, а это значит, ты работаешь на МЕНЯ. Советую тебе делать, что я говорю. А я говорю следовать за мной. Немедленно.}
+{7701}{ABSHP9}{ОТКУДА тебя выкопали? Я Анжела БИШОП. Мой отец - ГЛАВА семьи Бишоп. Советую тебе делать, что я говорю. А я говорю следовать за мной. Немедленно.}
+{7702}{ABSHP13}{А как же. Послушай, у меня в комнате припрятано немного винта... и НЕ того сраного дерьма, которое раздают дешевым шлюхам и торчкам. Хочешь полетать?}
+{7703}{ABSHP25}{Я слышала ту историю про тебя и Анклав, чувак. ОЧЕНЬ впечатляет. Думаю, ты именно тот человек, что сможет мне помочь с... одной проблемой. }
+{7704}{ABSHP26}{Ну-ну... Ха. Да это же наша звезда из "Золотых шаров". Я видела твой последний фильм. ОЧЕНЬ впечатляет. Думаю, ты именно тот человек, что сможет мне помочь с... одной проблемой. }
+{7705}{ABSHP27}{Ну-ну... Ха. Да это же наш чемпион из "Джунглей". Я слышала о твоих подвигах на ринге. ОЧЕНЬ впечатляет. Думаю, ты именно тот человек, что сможет мне помочь с... одной проблемой. }
+{7706}{ABSHP44}{Да, иди-иди. Папа скоро узнает МНОГО всего интересного о тебе. Вот увидишь. [Отворачивается]}

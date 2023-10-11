@@ -162,13 +162,13 @@
 {925}{}{Вы успешно провели секретную деловую операцию.}
 {5233}{}{! Ты кто}
 {5270}{}{. Ну... что ты от меня ХОЧЕШЬ?}
-{5290}{}{... Что ты... от меня ХОЧЕШЬ?}
+{5290}{}{: Что ты... от меня ХОЧЕШЬ?}
 {5605}{}{. Все сделано тобой... как я просил. Я хотел бы видеть тебя... среди своих людей, как... члена Семьи Сальваторе.}
 {5640}{}{.}
 {5645}{}{.}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{SALVA6}{(Takes a deep breath from his mask, then shakes his head.) You have nothing... that I need to know, Traveller. Now... what do you WANT of me?}
-{7701}{SALVA7}{(Looks at you silently for a minute. He might be either amused at your question or irritated... it's hard to tell.) Again, Traveller: What... do you WANT of me?}
-{7702}{SALVA36}{Sit, Traveller. You have done... all I have asked. I would like you to join the Salvatore Family and become... one of my made men.}
-{7703}{SALVA37}{That is... unfortunate. I cannot take the risk that you will remain... silent about what you have seen in the desert. Goodbye, Traveller.}
+{7700}{SALVA6}{[Делает глубокий вдох через маску, затем качает головой.] Ты не знаешь ничего... что нужно знать мне, путник. Ну... что ты от меня ХОЧЕШЬ?}
+{7701}{SALVA7}{[Он молча смотрит на вас примерно минуту. Сказанное вами его то ли позабавило, то ли рассердило - сложно сказать.] Еще раз, путник: Что ты... от меня ХОЧЕШЬ?}
+{7702}{SALVA36}{Присаживайся, путник. Все сделано тобой... как я просил. Я хотел бы видеть тебя... среди своих людей, как... члена Семьи Сальваторе.}
+{7703}{SALVA37}{Как... неудачно. Я не могу рискнуть и оставить тебя жить со знанием того, что произошло в пустыне. Прощай, путник.}

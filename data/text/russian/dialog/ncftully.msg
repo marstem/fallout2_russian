@@ -18,7 +18,7 @@
 {222}{}{Курт-з-занка! Блудница! Прел-бдейка! Э... что ты делаешь вечером?}
 {225}{}{Здрасстт. Я тея знаю?}
 {226}{}{Приветсв... чем отсетсц Тулли можт-те помочь...}
-{227}{}{Тык вот хто побил Анклав как священ...бррр, вссмыссле как щенка? Ты геро-ой.}
+{227}{}{Тык вот хто побил Анклав как священ... бррр, вссмыссле как щенка? Ты геро-ой.}
 {228}{}{Я зна-ю}
 {229}{}{Пока-а}
 {230}{}{Я боролся с Анклавом, да. Они это начали, я это закончил. Но не пойми меня неправильно, Отец. Я всего лишь простой парень, который пытается найти свой путь в этом жестоком мире... Я не герой.}
@@ -322,12 +322,12 @@
 {20091}{}{Хаа! Это, блин, уржаться. Я как-то такую же шштуку с моим племянником Фергусом прроввернулл, и когда он проснулся и понял, что обоссал себя, он начал хныкать - это было здорово. Ладно, так что, тебя в конце концов выгнали?}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{TULLY1}{Houer you? Do I know you? You th'one hoo beat th' Enclave like a god... er, dog? Yer a heroo.}
-{7701}{TULLY2}{Greetingz... wazzit Father Tully can do fer you thiz... You th'one hoo beat th' Enclave like a god... er, dog? Yer a heroo.}
-{7702}{TULLY21}{(Tully stumbles over to the poor box beside the podium, and fishes around inside.) Hmnnn. Here ya go...(He dumps some chips into your hand.) Blesst be the poor. Go spend in the name of all that is holee.}
-{7703}{TULLY22}{(Tully stumbles over to the poor box beside the podium, and fishes around inside.) Uh... hmmnn. (His hands come up empty.) Afraid I haven't got any chipz afterall.}
-{7704}{TULLY26}{Devil take me, 'course I can! Reno waz th' divorce capital even 'fore th' Big One. This th' filly you wanna break vows with? (Looks confused for a moment as he stares at both of you. Then he shrugs, drinks.)}
-{7705}{TULLY27}{Devil take me, 'course I can! Reno waz th' divorce capital even 'fore th' Big One. This th' stud you wanna break vows with? (Looks confused for a moment as he stares at both of you. Then he shrugs, drinks.)}
-{7706}{TULLY28}{Devil take me, 'course I can! Reno waz th' divorce capital even 'fore th' Big One. This th' filly you wanna break vows with? }
-{7707}{TULLY29}{Devil take me, 'course I can! Reno waz th' divorce capital even 'fore th' Big One. This th' stud you wanna break vows with? }
-{7708}{TULLY58}{(Tully stares at you.) Yesss... (Smiles, licks lips.) ...whoresss... (Begins stroking neck of the bottle.)}
+{7700}{TULLY1}{Здрасстт. Я тея знаю? Тык вот хто побил Анклав как священ... бррр, вссмыссле как щенка? Ты геро-ой.}
+{7701}{TULLY2}{Приветсв... чем отсетсц Тулли можт-те помочь... Тык вот хто побил Анклав как священ... бррр, вссмыссле как щенка? Ты геро-ой.}
+{7702}{TULLY21}{[Тулли спотыкается о коробку для пожертвований рядом с аналоем. Затем начинает в ней копаться.] Хмм. На вот тебе... [бросает несколько монет тебе в руку] Да блахослови бедняков. Иди и потрать их во имя всево святово.}
+{7703}{TULLY22}{[Тулли спотыкается о коробку для пожертвований рядом с аналоем. Затем начинает в ней копаться.] Э... хмм. [показываете пустые руки] Боюся, деньги-то кончились.}
+{7704}{TULLY26}{Естессно, дьявол меня побери! Рино был столицей разводов еще до великой войны. Это с этой крошкой ты хочшь расторгнуть брак? [В недоумении смотрит на вас двоих. Затем пожимает плечами и выпивает.]}
+{7705}{TULLY27}{Естессно, дьявол меня побери! Рино был столицей разводов еще до великой войны. Это с этим красавцем ты хочшь расторгнуть брак? [В недоумении смотрит на вас двоих. Затем пожимает плечами и выпивает.]}
+{7706}{TULLY28}{Естессно, дьявол меня побери! Рино был столицей разводов еще до великой войны. Это с этой крошкой ты хочшь расторгнуть брак? }
+{7707}{TULLY29}{Естессно, дьявол меня побери! Рино был столицей разводов еще до великой войны. Это с этим красавцем ты хочшь расторгнуть брак? }
+{7708}{TULLY58}{[Тулли пристально на вас смотрит.] Да-а... [улыбается, облизывает губы] ...шлюххи... [Любовно поглаживает горлышко бутылки.]}

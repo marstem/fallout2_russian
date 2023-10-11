@@ -384,16 +384,15 @@
 {6259}{}{ ТВОЯ УБИТЬ}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{RENE1}{(The old man pushes his broken glasses up on his nose and sighs in exasperation.) YES? What is it you want? Come on, man, out with it!}
-{7701}{RENE2}{(The old man pushes his broken glasses up on his nose and sighs in exasperation.) YES? What is it you want? Come on, woman, out with it!}
-{7702}{RENE4}{(Stares in shock.) ...another postnatally-aborted wreck in a post-holocaust world replete with idiot man-children. (Raises his fists.) Out of my shop! Get out at once! Don't you come back, you hear?!}
-{7703}{RENE6}{(Renesco's glare crumbles.) GECK? As in 'Garden of Eden Creation Kit?' Comes with a basic replicator unit, holodisc reader with selections from the library of congress, and a little pen flashlight?}
-{7704}{RENE8}{Just testing you. There is no second part. Well, if Zaius sent you, I SUPPOSE I have some parts to spare. Here you go. Don't drop them.}
-{7705}{RENE70}{You STUPID bastard. I TOLD you not to say his name in here. Get out! I see you again, I'll SHOOT YOU DEAD. If Mr. Wright comes looking for me, thinks I killed his boy, YOU'LL die first.}
-{7706}{RENE71}{You STUPID bitch. I TOLD you not to say his name in here. Get out! I see you again, I'll SHOOT YOU DEAD. If Mr. Wright comes looking for me, thinks I killed his boy, YOU'LL die first.}
-{7707}{RENE74}{You lose your hearing, boy? I SAID I. PAID. THE. TRIBUTE. ALREADY. *Two weeks ago.* If you were really from Salvatore, you would know that. Now git!}
-{7708}{RENE75}{You lose your hearing, girl? I SAID I. PAID. THE. TRIBUTE. ALREADY. *Two weeks ago.* If you were really from Salvatore, you would know that. Now git!}
-{7709}{RENE3}{...another postnatally-aborted wreck in a post-holocaust world replete with idiot man-children. (Raises his fists.) Out of my shop! Get out at once! Don't you come back, you hear?!}
-{7710}{RENE5}{GECK? As in 'Garden of Eden Creation Kit?' Comes with a basic replicator unit, holodisc reader with selections
- from the library of congress, and a little pen flashlight?}
-{7711}{RENE7}{Here you go. Don't drop them.}
+{7700}{RENE1}{[Старик поправляет разбитые очки и раздраженно вздыхает.] НУ? Чего надо? Ну давайте уже, юноша, выкладывайте!}
+{7701}{RENE2}{[Старик поправляет разбитые очки и раздраженно вздыхает.] НУ? Чего надо? Ну давайте уже, девушка, выкладывайте!}
+{7702}{RENE4}{[Обалдело таращится на вас.] ...еще одна жертва аборта в постхолокостовом мире, набитом тупыми человеческими детенышами. [Сжимает кулаки.] Вон из моего магазина! Убирайся немедленно! И не возвращайся, слышишь?!}
+{7703}{RENE6}{[Сверло взгляда Ренеско раскололось.] ГЭКК? Генератор Эдемских Кущ Компактный? Поставляется с репликатором базовой комплектации, проигрывателем голодисков, набором избранных книг из Библиотеки Конгресса и миниатюрной ручкой-фонариком?}
+{7704}{RENE8}{Спокойно, просто проверяю. Нет никакой второй части. Что ж, если Зайус тебя послал, ДУМАЮ, у меня есть запчасти для него. Держи. Не ронять.}
+{7705}{RENE70}{ТУПОЙ ублюдок. Я СКАЗАЛ тебе не произносить это имя здесь. А теперь проваливай. Вернешься - ПРИСТРЕЛЮ. Если мистер Райт придет за мной, думая, что это я убил его ребенка, ТЫ СДОХНЕШЬ в первую очередь.}
+{7706}{RENE71}{ТУПАЯ сука. Я СКАЗАЛ тебе не произносить это имя здесь. А теперь проваливай. Вернешься - ПРИСТРЕЛЮ. Если мистер Райт придет за мной, думая, что это я убил его ребенка, ТЫ СДОХНЕШЬ в первую очередь.}
+{7707}{RENE74}{Неожиданно потеряли слух, юноша? Я СКАЗАЛ, что Я. УЖЕ. ЗАПЛАТИЛ. ДАНЬ. *Две недели назад*. Если ты действительно от Сальваторе, тебе бы следовало это знать. А теперь катись!}
+{7708}{RENE75}{Неожиданно потеряли слух, девушка? Я СКАЗАЛ, что Я. УЖЕ. ЗАПЛАТИЛ. ДАНЬ. *Две недели назад*. Если ты действительно от Сальваторе, тебе бы следовало это знать. А теперь катись!}
+{7709}{RENE3}{...еще одна жертва аборта в постхолокостовом мире, набитом тупыми человеческими детенышами. [Сжимает кулаки.] Вон из моего магазина! Убирайся немедленно! И не возвращайся, слышишь?!}
+{7710}{RENE5}{ГЭКК? Генератор Эдемских Кущ Компактный? Поставляется с репликатором базовой комплектации, проигрывателем голодисков, набором избранных книг из Библиотеки Конгресса и миниатюрной ручкой-фонариком?}
+{7711}{RENE7}{Держи. Не ронять.}

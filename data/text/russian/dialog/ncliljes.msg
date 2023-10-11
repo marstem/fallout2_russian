@@ -328,20 +328,20 @@
 {8035}{}{ НЕ НРАЦЦА}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{LJMRD1}{Hunh? Something you want, amigo?}
-{7701}{LJMRD2}{Hunh? Something you want, chica?}
-{7702}{LJMRD5}{Hey, hey, hey! You're that prizefighter from Jungle Gym! The big ol' fighter! Man, you're good!}
-{7703}{LJMRD6}{Hey, hey, hey! You're that prizefighter from Jungle Gym! The nasty chica fighter! You're good, chica!}
-{7704}{LJMRD7}{Heeeey! How's it going? You being helped, or do I got to call over one of the putas ta get you set up? Ha!}
-{7705}{LJMRD8}{Heeeey! How's it going? You being helped, or do I got to call over one of the waitresses ta get you set up? Ha!}
-{7706}{LJMRD21}{To the northwest, homes. If you ain't been there, you ain't missing nothing. Bunch of no-neck miners who like to FLY, know what I'm saying?}
-{7707}{LJMRD22}{To the northwest, chica. If you ain't been there, you ain't missing nothing. Bunch of no-neck miners who like to FLY, know what I'm saying?}
-{7708}{LJMRD52}{CAUSE, mother fucker, I AIN'T a dealer. I may sell Jet sometimes, but I'm Lil' Jesus MORDINO, not some two-bit Jet-pushing punk that's got to addict ten customers a day just to make enough to eat. So FUCK you.}
-{7709}{LJMRD53}{CAUSE I AIN'T a dealer, BITCH. I may sell Jet sometimes, but I'm Lil' Jesus MORDINO, not some two-bit Jet-pushing punk that's got to addict ten customers a day just to make enough to eat. So FUCK you.}
-{7710}{LJMRD54}{(Lil' Jesus glances at the knife in your hand, shakes his head.) *Tchhhh.* Don't you know how to HOLD a knife, homes? Here, like this... (Adjusts your grip.) You need some instruction.}
-{7711}{LJMRD55}{(Lil' Jesus glances at the knife in your hand, shakes his head.) *Tchhhh.* Don't you know how to HOLD a knife, chica? Here, like this... (Adjusts your grip.) You need some instruction.}
-{7712}{LJMRD56}{(The man glances at the knife in your hand, shakes his head.) *Tchhhh.* Don't you know how to HOLD a knife, homes? Here, like this... (Adjusts your grip.) You need some instruction.}
-{7713}{LJMRD57}{(The man glances at the knife in your hand, shakes his head.) *Tchhhh.* Don't you know how to HOLD a knife, chica? Here, like this... (Adjusts your grip.) You need some instruction.}
-{7714}{LJMRD58}{Hmmmmm...I don't know, homes... I mean, I ain't got a lot of free time and knife fighting's an ART, y'know?}
-{7715}{LJMRD59}{Hmmmmm...I don't know, chica... I mean, I ain't got a lot of free time and knife fighting's an ART, y'know?}
-{7716}{LJMRD60}{Hmmmmm...I don't know, chica... I mean, I MIGHT be willing to make an exception for a woman such as yourself, but I ain't got a lot of free time... and knife fighting's an ART, y'know?}
+{7700}{LJMRD1}{А? Что-то хочешь, амиго?}
+{7701}{LJMRD2}{А? Что-то хочешь, телка?}
+{7702}{LJMRD5}{Эй, эй, эй! Ты тот чемпион из "Джунглей"! Старый добрый боец! Мужик, ну ты хорош!}
+{7703}{LJMRD6}{Эй, эй, эй! Ты та чемпионша из "Джунглей"! Сердитая бойцовая баба! Ну ты хороша, телка!}
+{7704}{LJMRD7}{Ээээй! Как дела? Тебе уже помогли, или мне подозвать одну из телок, чтобы тебя обслужили? А?}
+{7705}{LJMRD8}{Ээээй! Как дела? Тебе уже помогли, или мне подозвать одну из официанток, чтобы тебя обслужили? А?}
+{7706}{LJMRD21}{На северо-западе, чувак. Если ты там не был, ничего не потерял. Кучка грязных шахтеров, которые любят ЛЕТАТЬ, понимаешь, о чем я?}
+{7707}{LJMRD22}{На северо-западе, телка. Если ты там не была, ничего не потеряла. Кучка грязных шахтеров, которые любят ЛЕТАТЬ, понимаешь, о чем я?}
+{7708}{LJMRD52}{ПОТОМУ ЧТО, мать твою, я НЕ дилер. Я могу иногда продавать винт, но я Хесусик МОРДИНО, а не жалкий панк, которому приходится подсаживать по десять человек в день, чтобы на жрачку хватило. Так что ПОШЕЛ ты.}
+{7709}{LJMRD53}{ПОТОМУ ЧТО я НЕ дилер, СУЧКА. Я могу иногда продавать винт, но я Хесусик МОРДИНО, а не жалкий панк, которому приходится подсаживать по десять человек в день, чтобы на жрачку хватило. Так что ПОШЛА ты.}
+{7710}{LJMRD54}{[Хесусик смотрит на нож в вашей руке, качает головой.] Тю-тю-тю. Ты что, не знаешь, как ДЕРЖАТЬ нож, чувак? Вот, вот так... [поправляет ваш хват] Тебе нужно подучиться.}
+{7711}{LJMRD55}{[Хесусик смотрит на нож в вашей руке, качает головой.] Тю-тю-тю. Ты что, не знаешь, как ДЕРЖАТЬ нож, телка? Вот, вот так... [поправляет ваш хват] Тебе нужно подучиться.}
+{7712}{LJMRD56}{(The man glances at the knife in your hand, shakes his head.) Тю-тю-тю. Ты что, не знаешь, как ДЕРЖАТЬ нож, чувак? Вот, вот так... [поправляет ваш хват] Тебе нужно подучиться.}
+{7713}{LJMRD57}{(The man glances at the knife in your hand, shakes his head.) Тю-тю-тю. Ты что, не знаешь, как ДЕРЖАТЬ нож, телка? Вот, вот так... [поправляет ваш хват] Тебе нужно подучиться.}
+{7714}{LJMRD58}{Гммм... Я не знаю, чувак... в смысле, у меня немного свободного времени, а ножи - это ИСКУССТВО, понимаешь?}
+{7715}{LJMRD59}{Гммм... Я не знаю, телка... в смысле, у меня немного свободного времени, а ножи - это ИСКУССТВО, понимаешь?}
+{7716}{LJMRD60}{Гммм... Я не знаю, телка... в смысле, может, я и хочу сделать исключение для такой женщины, как ты, но у меня немного свободного времени... а ножи - это ИСКУССТВО, понимаешь?}

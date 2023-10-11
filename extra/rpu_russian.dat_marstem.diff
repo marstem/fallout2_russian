@@ -7868,11 +7868,11 @@ diff -r dat.org/text/russian/dialog/fcfmatt.msg dat/text/russian/dialog/fcfmatt.
 123a124,130
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{MAT1}{Hello, Wanderer. What can I do for you?}
-> {7701}{MAT11}{Let me be frank with you, Wanderer. The Brotherhood of Steel is not the power that we once were. We believed ourselves to be the sole source of technology left to mankind. Secure in this belief we have let our order decline over the years. Now we don't have the resources at our disposal to deal with the Enclave. We need your help.}
-> {7702}{MAT16}{Upon successful completion of your mission I will grant you access to our facility here. In the meantime it would be best if you got started immediately. Thank you, Wanderer.}
-> {7703}{MAT27}{I had an operative go and scout the base. Her reports recently stopped; I can only assume the worst. Please be careful Wanderer. I don't enjoy sending people to their deaths.}
-> {7704}{MAT29}{Upon successful completion of your mission I'll get the tanker ready for you, and grant you access to our facility here. In the meantime it would be best if you got started immediately. Thank you, Wanderer.}
+> {7700}{MAT1}{Приветствую, путник. Что я могу для вас сделать?}
+> {7701}{MAT11}{Я буду откровенен, путник. Братство Стали уже не то, что когда-то. Мы верили, что мы - единственный источник технологий, оставшийся у человечества. Уверенные в этом, мы годами сидели сложа руки, и орден постепенно пришел в упадок. Сейчас у нас не хватит сил, чтобы сразиться с Анклавом. Нам нужна ваша помощь.}
+> {7702}{MAT16}{После успешного завершения задания я предоставлю вам доступ к нашему здешнему бункеру. Но чем быстрее задание будет выполнено, тем лучше. Спасибо, путник.}
+> {7703}{MAT27}{Я отправил одну из наших сестер на разведку. Недавно она перестала выходить на связь, и мне остается только предполагать самое худшее. Пожалуйста, будьте осторожны, путник. Мне меньше всего хочется посылать людей на смерть.}
+> {7704}{MAT29}{После успешного завершения задания я предоставлю вам доступ к нашему здешнему бункеру, и танкер будет ждать вас в полной готовности. Но чем быстрее задание будет выполнено, тем лучше. Спасибо, путник.}
 diff -r dat.org/text/russian/dialog/fcgudpea.msg dat/text/russian/dialog/fcgudpea.msg
 18c18
 < {117}{}{Смотрите! Лао вай!}
@@ -13991,13 +13991,14 @@ diff -r dat.org/text/russian/dialog/ncangbis.msg dat/text/russian/dialog/ncangbi
 201a202,210
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{ABSHP8}{You NEW or something? I'm Angela BISHOP. My Dad is the HEAD of Family Bishop. You work for him, which means you work for ME. You better do what I say, and I say you're coming with me. Now.}
-> {7701}{ABSHP9}{You NEW or something? I'm Angela BISHOP. My Dad is the HEAD of Family Bishop. You better do what I say, and I say you're coming with me. Now.}
-> {7702}{ABSHP13}{Sure can. Look: I got some Jet in my room... and NOT that crappy shit they give the dimestore hookers and junkies. Y'wanna fly?}
-> {7703}{ABSHP25}{I heard about what you did to the Enclave, You. VERY impressive. I think you're just the person to help me with this... problem I have. }
-> {7704}{ABSHP26}{Well, well: If it isn't Golden Globes's latest hottie. I saw your latest movie. VERY impressive. I think you're just the person to help me with this... problem I have. }
-> {7705}{ABSHP27}{Well, well: If it isn't Jungle Gym's latest champion. I heard about your exploits in the ring. VERY impressive. I think you're just the person to help me with this... problem I have. }
-> {7706}{ABSHP44}{Yeah, you start walking. Daddy's gonna start hearing ALL sorts of things about you soon. Just you wait. (Turns away.)}
+> {7700}{ABSHP8}{ОТКУДА тебя выкопали? Я Анжела БИШОП. Мой отец - ГЛАВА семьи Бишоп. Ты работаешь на него, а это значит, ты работаешь на МЕНЯ. Советую тебе делать, что я говорю. А я говорю следовать за мной. Немедленно.}
+> {7701}{ABSHP9}{ОТКУДА тебя выкопали? Я Анжела БИШОП. Мой отец - ГЛАВА семьи Бишоп. Советую тебе делать, что я говорю. А я говорю следовать за мной. Немедленно.}
+> {7702}{ABSHP13}{А как же. Послушай, у меня в комнате припрятано немного винта... и НЕ того сраного дерьма, которое раздают дешевым шлюхам и торчкам. Хочешь полетать?}
+> {7703}{ABSHP25}{Я слышала ту историю про тебя и Анклав, чувак. ОЧЕНЬ впечатляет. Думаю, ты именно тот человек, что сможет мне помочь с... одной проблемой. }
+> {7704}{ABSHP26}{Ну-ну... Ха. Да это же наша звезда из "Золотых шаров". Я видела твой последний фильм. ОЧЕНЬ впечатляет. Думаю, ты именно тот человек, что сможет мне помочь с... одной проблемой. }
+> {7705}{ABSHP27}{Ну-ну... Ха. Да это же наш чемпион из "Джунглей". Я слышала о твоих подвигах на ринге. ОЧЕНЬ впечатляет. Думаю, ты именно тот человек, что сможет мне помочь с... одной проблемой. }
+> {7706}{ABSHP44}{Да, иди-иди. Папа скоро узнает МНОГО всего интересного о тебе. Вот увидишь. [Отворачивается]}
+\ No newline at end of file
 diff -r dat.org/text/russian/dialog/ncband.msg dat/text/russian/dialog/ncband.msg
 8c8
 < {204}{}{::Дотрагивается до воображаемой шляпы.:: Чем те помочь, леди?}
@@ -14952,6 +14953,10 @@ diff -r dat.org/text/russian/dialog/ncfluffe.msg dat/text/russian/dialog/ncfluff
 ---
 > {456}{}{Тебе нужно стать порноактером. У тебя для этого отличное тело.}
 diff -r dat.org/text/russian/dialog/ncftully.msg dat/text/russian/dialog/ncftully.msg
+21c21
+< {227}{}{Тык вот хто побил Анклав как священ...бррр, вссмыссле как щенка? Ты геро-ой.}
+---
+> {227}{}{Тык вот хто побил Анклав как священ... бррр, вссмыссле как щенка? Ты геро-ой.}
 27c27
 < {235}{}{Ты ГЕРОЙ. У мня есть для ття кой-чего. Сначала и я не знал, че это. Но птом я решил, тебе это можжбть нужно будет.}
 ---
@@ -15280,15 +15285,15 @@ diff -r dat.org/text/russian/dialog/ncftully.msg dat/text/russian/dialog/ncftull
 > {20091}{}{Хаа! Это, блин, уржаться. Я как-то такую же шштуку с моим племянником Фергусом прроввернулл, и когда он проснулся и понял, что обоссал себя, он начал хныкать - это было здорово. Ладно, так что, тебя в конце концов выгнали?}
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{TULLY1}{Houer you? Do I know you? You th'one hoo beat th' Enclave like a god... er, dog? Yer a heroo.}
-> {7701}{TULLY2}{Greetingz... wazzit Father Tully can do fer you thiz... You th'one hoo beat th' Enclave like a god... er, dog? Yer a heroo.}
-> {7702}{TULLY21}{(Tully stumbles over to the poor box beside the podium, and fishes around inside.) Hmnnn. Here ya go...(He dumps some chips into your hand.) Blesst be the poor. Go spend in the name of all that is holee.}
-> {7703}{TULLY22}{(Tully stumbles over to the poor box beside the podium, and fishes around inside.) Uh... hmmnn. (His hands come up empty.) Afraid I haven't got any chipz afterall.}
-> {7704}{TULLY26}{Devil take me, 'course I can! Reno waz th' divorce capital even 'fore th' Big One. This th' filly you wanna break vows with? (Looks confused for a moment as he stares at both of you. Then he shrugs, drinks.)}
-> {7705}{TULLY27}{Devil take me, 'course I can! Reno waz th' divorce capital even 'fore th' Big One. This th' stud you wanna break vows with? (Looks confused for a moment as he stares at both of you. Then he shrugs, drinks.)}
-> {7706}{TULLY28}{Devil take me, 'course I can! Reno waz th' divorce capital even 'fore th' Big One. This th' filly you wanna break vows with? }
-> {7707}{TULLY29}{Devil take me, 'course I can! Reno waz th' divorce capital even 'fore th' Big One. This th' stud you wanna break vows with? }
-> {7708}{TULLY58}{(Tully stares at you.) Yesss... (Smiles, licks lips.) ...whoresss... (Begins stroking neck of the bottle.)}
+> {7700}{TULLY1}{Здрасстт. Я тея знаю? Тык вот хто побил Анклав как священ... бррр, вссмыссле как щенка? Ты геро-ой.}
+> {7701}{TULLY2}{Приветсв... чем отсетсц Тулли можт-те помочь... Тык вот хто побил Анклав как священ... бррр, вссмыссле как щенка? Ты геро-ой.}
+> {7702}{TULLY21}{[Тулли спотыкается о коробку для пожертвований рядом с аналоем. Затем начинает в ней копаться.] Хмм. На вот тебе... [бросает несколько монет тебе в руку] Да блахослови бедняков. Иди и потрать их во имя всево святово.}
+> {7703}{TULLY22}{[Тулли спотыкается о коробку для пожертвований рядом с аналоем. Затем начинает в ней копаться.] Э... хмм. [показываете пустые руки] Боюся, деньги-то кончились.}
+> {7704}{TULLY26}{Естессно, дьявол меня побери! Рино был столицей разводов еще до великой войны. Это с этой крошкой ты хочшь расторгнуть брак? [В недоумении смотрит на вас двоих. Затем пожимает плечами и выпивает.]}
+> {7705}{TULLY27}{Естессно, дьявол меня побери! Рино был столицей разводов еще до великой войны. Это с этим красавцем ты хочшь расторгнуть брак? [В недоумении смотрит на вас двоих. Затем пожимает плечами и выпивает.]}
+> {7706}{TULLY28}{Естессно, дьявол меня побери! Рино был столицей разводов еще до великой войны. Это с этой крошкой ты хочшь расторгнуть брак? }
+> {7707}{TULLY29}{Естессно, дьявол меня побери! Рино был столицей разводов еще до великой войны. Это с этим красавцем ты хочшь расторгнуть брак? }
+> {7708}{TULLY58}{[Тулли пристально на вас смотрит.] Да-а... [улыбается, облизывает губы] ...шлюххи... [Любовно поглаживает горлышко бутылки.]}
 diff -r dat.org/text/russian/dialog/ncjimmyj.msg dat/text/russian/dialog/ncjimmyj.msg
 22c22
 < {240}{}{(У этого человека небольшой нервный тик и шрам на щеке. Шрам явно ножевой). }
@@ -16458,23 +16463,23 @@ diff -r dat.org/text/russian/dialog/ncliljes.msg dat/text/russian/dialog/nclilje
 327a329,347
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{LJMRD1}{Hunh? Something you want, amigo?}
-> {7701}{LJMRD2}{Hunh? Something you want, chica?}
-> {7702}{LJMRD5}{Hey, hey, hey! You're that prizefighter from Jungle Gym! The big ol' fighter! Man, you're good!}
-> {7703}{LJMRD6}{Hey, hey, hey! You're that prizefighter from Jungle Gym! The nasty chica fighter! You're good, chica!}
-> {7704}{LJMRD7}{Heeeey! How's it going? You being helped, or do I got to call over one of the putas ta get you set up? Ha!}
-> {7705}{LJMRD8}{Heeeey! How's it going? You being helped, or do I got to call over one of the waitresses ta get you set up? Ha!}
-> {7706}{LJMRD21}{To the northwest, homes. If you ain't been there, you ain't missing nothing. Bunch of no-neck miners who like to FLY, know what I'm saying?}
-> {7707}{LJMRD22}{To the northwest, chica. If you ain't been there, you ain't missing nothing. Bunch of no-neck miners who like to FLY, know what I'm saying?}
-> {7708}{LJMRD52}{CAUSE, mother fucker, I AIN'T a dealer. I may sell Jet sometimes, but I'm Lil' Jesus MORDINO, not some two-bit Jet-pushing punk that's got to addict ten customers a day just to make enough to eat. So FUCK you.}
-> {7709}{LJMRD53}{CAUSE I AIN'T a dealer, BITCH. I may sell Jet sometimes, but I'm Lil' Jesus MORDINO, not some two-bit Jet-pushing punk that's got to addict ten customers a day just to make enough to eat. So FUCK you.}
-> {7710}{LJMRD54}{(Lil' Jesus glances at the knife in your hand, shakes his head.) *Tchhhh.* Don't you know how to HOLD a knife, homes? Here, like this... (Adjusts your grip.) You need some instruction.}
-> {7711}{LJMRD55}{(Lil' Jesus glances at the knife in your hand, shakes his head.) *Tchhhh.* Don't you know how to HOLD a knife, chica? Here, like this... (Adjusts your grip.) You need some instruction.}
-> {7712}{LJMRD56}{(The man glances at the knife in your hand, shakes his head.) *Tchhhh.* Don't you know how to HOLD a knife, homes? Here, like this... (Adjusts your grip.) You need some instruction.}
-> {7713}{LJMRD57}{(The man glances at the knife in your hand, shakes his head.) *Tchhhh.* Don't you know how to HOLD a knife, chica? Here, like this... (Adjusts your grip.) You need some instruction.}
-> {7714}{LJMRD58}{Hmmmmm...I don't know, homes... I mean, I ain't got a lot of free time and knife fighting's an ART, y'know?}
-> {7715}{LJMRD59}{Hmmmmm...I don't know, chica... I mean, I ain't got a lot of free time and knife fighting's an ART, y'know?}
-> {7716}{LJMRD60}{Hmmmmm...I don't know, chica... I mean, I MIGHT be willing to make an exception for a woman such as yourself, but I ain't got a lot of free time... and knife fighting's an ART, y'know?}
+> {7700}{LJMRD1}{А? Что-то хочешь, амиго?}
+> {7701}{LJMRD2}{А? Что-то хочешь, телка?}
+> {7702}{LJMRD5}{Эй, эй, эй! Ты тот чемпион из "Джунглей"! Старый добрый боец! Мужик, ну ты хорош!}
+> {7703}{LJMRD6}{Эй, эй, эй! Ты та чемпионша из "Джунглей"! Сердитая бойцовая баба! Ну ты хороша, телка!}
+> {7704}{LJMRD7}{Ээээй! Как дела? Тебе уже помогли, или мне подозвать одну из телок, чтобы тебя обслужили? А?}
+> {7705}{LJMRD8}{Ээээй! Как дела? Тебе уже помогли, или мне подозвать одну из официанток, чтобы тебя обслужили? А?}
+> {7706}{LJMRD21}{На северо-западе, чувак. Если ты там не был, ничего не потерял. Кучка грязных шахтеров, которые любят ЛЕТАТЬ, понимаешь, о чем я?}
+> {7707}{LJMRD22}{На северо-западе, телка. Если ты там не была, ничего не потеряла. Кучка грязных шахтеров, которые любят ЛЕТАТЬ, понимаешь, о чем я?}
+> {7708}{LJMRD52}{ПОТОМУ ЧТО, мать твою, я НЕ дилер. Я могу иногда продавать винт, но я Хесусик МОРДИНО, а не жалкий панк, которому приходится подсаживать по десять человек в день, чтобы на жрачку хватило. Так что ПОШЕЛ ты.}
+> {7709}{LJMRD53}{ПОТОМУ ЧТО я НЕ дилер, СУЧКА. Я могу иногда продавать винт, но я Хесусик МОРДИНО, а не жалкий панк, которому приходится подсаживать по десять человек в день, чтобы на жрачку хватило. Так что ПОШЛА ты.}
+> {7710}{LJMRD54}{[Хесусик смотрит на нож в вашей руке, качает головой.] Тю-тю-тю. Ты что, не знаешь, как ДЕРЖАТЬ нож, чувак? Вот, вот так... [поправляет ваш хват] Тебе нужно подучиться.}
+> {7711}{LJMRD55}{[Хесусик смотрит на нож в вашей руке, качает головой.] Тю-тю-тю. Ты что, не знаешь, как ДЕРЖАТЬ нож, телка? Вот, вот так... [поправляет ваш хват] Тебе нужно подучиться.}
+> {7712}{LJMRD56}{(The man glances at the knife in your hand, shakes his head.) Тю-тю-тю. Ты что, не знаешь, как ДЕРЖАТЬ нож, чувак? Вот, вот так... [поправляет ваш хват] Тебе нужно подучиться.}
+> {7713}{LJMRD57}{(The man glances at the knife in your hand, shakes his head.) Тю-тю-тю. Ты что, не знаешь, как ДЕРЖАТЬ нож, телка? Вот, вот так... [поправляет ваш хват] Тебе нужно подучиться.}
+> {7714}{LJMRD58}{Гммм... Я не знаю, чувак... в смысле, у меня немного свободного времени, а ножи - это ИСКУССТВО, понимаешь?}
+> {7715}{LJMRD59}{Гммм... Я не знаю, телка... в смысле, у меня немного свободного времени, а ножи - это ИСКУССТВО, понимаешь?}
+> {7716}{LJMRD60}{Гммм... Я не знаю, телка... в смысле, может, я и хочу сделать исключение для такой женщины, как ты, но у меня немного свободного времени... а ножи - это ИСКУССТВО, понимаешь?}
 diff -r dat.org/text/russian/dialog/nclloyd.msg dat/text/russian/dialog/nclloyd.msg
 16,17c16,17
 < {230}{}{Не твое дело...друг. Предлагаю тебе просто подняться по этой лестнице и забыть, что мы встречались.}
@@ -16984,25 +16989,25 @@ diff -r dat.org/text/russian/dialog/ncmason.msg dat/text/russian/dialog/ncmason.
 200c200
 < {5735}{}{. Мистер Сальваторе сказал о твоем повышении. Поздравляю. У меня тут для тебя кое что есть... (Протягивает вам охапку предметов.) Поосторожнее с этим...}
 ---
-> {5735}{}{. Мистер Сальваторе сказал о твоем повышении. Поздравляю. У меня тут для тебя кое-что есть... [протягивает вам охапку предметов] Поосторожнее с этим...}
+> {5735}{}{. Мистер Сальваторе сказал о твоем повышении. Поздравляю. У меня тут для тебя кое-что есть, ну-ка... [протягивает вам охапку предметов] Поосторожнее с этим...}
 201a202,218
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{MASON9}{(His face reddens. He suddenly speaks to the air.) Excuse me, Mr. Salvatore, this is Mason. This... man... says he's got something you wanna hear.}
-> {7701}{MASON10}{(His face reddens. He suddenly speaks to the air.) Excuse me, Mr. Salvatore, this is Mason. This... woman... says she's got something you wanna hear.}
-> {7702}{MASON13}{I WARNED you, asshole, now you're... (Mason suddenly pauses, listening to something you can't hear. After a moment, his teeth clench.) Mr. Salvatore says you may come in... Wanderer.}
-> {7703}{MASON14}{(Mason stops you.) Look... (Leans in, lowers voice.) ...Some ground rules, boy. Don't waste Mr. Salvatore's time, and don't give him any bullshit, or you'll answer to me.}
-> {7704}{MASON15}{Look... (Leans in, lowers voice.) ...Some ground rules, girl. Don't waste Mr. Salvatore's time, and don't give him any bullshit, or you'll answer to me.}
-> {7705}{MASON18}{'Bout time you showed, boy. This bum that stole from Mr. Salvatore, his name's Lloyd. Mr. Salvatore wants him dead and that money he stole back. When you done the job, report back to ME, understand? Think you can handle that?}
-> {7706}{MASON19}{'Bout time you showed, girl. This bum that stole from Mr. Salvatore, his name's Lloyd. Mr. Salvatore wants him dead and that money he stole back. When you done the job, report back to ME, understand? Think you can handle that?}
-> {7707}{MASON20}{'Bout time you showed. Don't know why Mr. Salvatore would hire porn trash, but I ain't gonna question him on it. This bum that stole from Mr. Salvatore, his name's Lloyd. Mr. Salvatore wants him dead and that money he stole back. When you done the job, report back to ME, understand? Think you can handle that?}
-> {7708}{MASON22}{He's been laying low, so tracking him down's gonna be YOUR job, boy. Best bet? Check some of the bars along Virgin street. Lloyd might be running another hustle there.}
-> {7709}{MASON23}{He's been laying low, so tracking him down's gonna be YOUR job, girl. Best bet? Check some of the bars along Virgin street. Lloyd might be running another hustle there.}
-> {7710}{MASON34}{(Stares at you in disbelief.) You screwed it up. We give you a simple job, and you screw. It. Up. You must be the STUPIDEST son of a bitch alive. (Sneers, reaches for weapons.) Time to die, tribal.}
-> {7711}{MASON35}{(Stares at you in disbelief.) You screwed it up. We give you a simple job, and you screw. It. Up. You must be the STUPIDEST bitch alive. (Sneers, reaches for weapons.) Time to die, tribal.}
-> {7712}{MASON48}{(As soon as he sees you, Mason sneers.) Just the dumb mother fucker I was looking for. You can't collect tribute from dead people. (Reaches for his weapons.) You done screwed up but GOOD.}
-> {7713}{MASON59}{(Grunts.) Hey, there.... Mr. Salvatore sent word of yer promotion. Congrats. I got some stuff for you... lessee...(He hands you an armload of items.) Careful with that stuff...}
-> {7714}{MASON61}{(Mason pauses, listening to something you can't hear. After a moment, his teeth clench.) Mr. Salvatore says you may come in, Wanderer.}
+> {7700}{MASON9}{[Его лицо краснеет. Внезапно он говорит в пустоту.] Простите, мистер Сальваторе, это Мэйсон. Тут... мужик... говорит, у него есть что-то, что вы захотите услышать.}
+> {7701}{MASON10}{[Его лицо краснеет. Внезапно он говорит в пустоту.] Простите, мистер Сальваторе, это Мэйсон. Тут... девка... говорит, у нее есть что-то, что вы захотите услышать.}
+> {7702}{MASON13}{Я ПРЕДУПРЕДИЛ тебя, чмо, теперь тебе... [Мэйсон внезапно перестает говорить, слушает что-то, что вы не можете услышать. Через мгновение он скрипит зубами.] Мистер Сальваторе говорит, что ты можешь зайти... путник.}
+> {7703}{MASON14}{[Мэйсон останавливает вас] Послушай... [наклоняется к вам, понижает голос] Несколько основных правил, парниша. Не трать время мистера Сальваторе впустую и не ври ему, или ответишь передо мной.}
+> {7704}{MASON15}{Послушай... [наклоняется к вам, понижает голос] Несколько основных правил, дамочка. Не трать время мистера Сальваторе впустую и не ври ему, или ответишь передо мной.}
+> {7705}{MASON18}{Ну наконец-то, парень. Этого козла, который обокрал мистера Сальваторе, зовут Ллойд. Мистер Сальваторе хочет, чтобы он сдох, ну и вернуть свои деньги. Когда сделаешь дело, сообщи МНЕ, понятно? Справишься?}
+> {7706}{MASON19}{Ну наконец-то, дамочка. Этого козла, который обокрал мистера Сальваторе, зовут Ллойд. Мистер Сальваторе хочет, чтобы он сдох, ну и вернуть свои деньги. Когда сделаешь дело, сообщи МНЕ, понятно? Справишься?}
+> {7707}{MASON20}{Ну наконец-то. Не знаю, зачем мистеру Сальваторе нанимать порнохлам, но я не буду его об этом спрашивать. Этого козла, который обокрал мистера Сальваторе, зовут Ллойд. Мистер Сальваторе хочет, чтобы он сдох, ну и вернуть свои деньги. Когда сделаешь дело, сообщи МНЕ, понятно? Справишься?}
+> {7708}{MASON22}{Он очень низко залег, так что искать его по низам - ТВОЯ работа, парень. Лучший вариант? Проверь бары по Девичьей улице. Ллойд, возможно, срубает там очередной куш.}
+> {7709}{MASON23}{Он очень низко залег, так что искать его по низам - ТВОЯ работа, дамочка. Лучший вариант? Проверь бары по Девичьей улице. Ллойд, возможно, срубает там очередной куш.}
+> {7710}{MASON34}{[Неверяще смотрит на вас] Ты все запорол. Мы дали тебе простое дело, а ты. Его. Запорол. Ты должно быть ТУПЕЙШИЙ сукин сын на свете. [усмехается, тянется за оружием] Время умирать, дикарь.}
+> {7711}{MASON35}{[Неверяще смотрит на вас] Ты все запорола. Мы дали тебе простое дело, а ты. Его. Запорола. Ты должно быть ТУПЕЙШАЯ сучка на свете. [усмехается, тянется за оружием] Время умирать, дикарка.}
+> {7712}{MASON48}{[Как только Мэйсон вас замечает, он хмурится] А вот и тот тупой ублюдок, которого я искал. Нельзя взять дань с мертвеца. [тянется за оружием] Ты все запорол, но ЛАДНО.}
+> {7713}{MASON59}{[Ворчит] Эй, вот... Мистер Сальваторе сказал о твоем повышении. Поздравляю. У меня тут для тебя кое-что есть, ну-ка... [протягивает вам охапку предметов] Поосторожнее с этим...}
+> {7714}{MASON61}{[Мэйсон замолкает и прислушивается к чему-то за дверью. Через мгновение, скрипя зубами, он продолжает говорить.] Мистер Сальваторе говорит, что ты можешь зайти, путник.}
 diff -r dat.org/text/russian/dialog/ncmcgee.msg dat/text/russian/dialog/ncmcgee.msg
 6c6
 < {201}{}{Я тебя убью! Получи, налетчик!}
@@ -18069,22 +18074,21 @@ diff -r dat.org/text/russian/dialog/ncrenesc.msg dat/text/russian/dialog/ncrenes
 > {6130}{RENE113}{Ну по крайней мере то, что не является отрыжкой или нервным хихиканьем... [Ренеско берет ваши деньги и принимается за работу.] И ради бога *постарайся* не засовывать какую-нибудь из моих склянок в свое обезьянье ухо, пока я буду занят.}
 > {6141}{RENE100}{Ох, снова *это дерьмо*. Мое слово - $200, на тот весьма вероятный случай, если ты забыл.}
 > {6142}{RENE103}{Еще разок, если ты отвлекся на что-то блестящее, пока я говорил: $300. Не испытывай судьбу.}
-384a385,399
+384a385,398
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{RENE1}{(The old man pushes his broken glasses up on his nose and sighs in exasperation.) YES? What is it you want? Come on, man, out with it!}
-> {7701}{RENE2}{(The old man pushes his broken glasses up on his nose and sighs in exasperation.) YES? What is it you want? Come on, woman, out with it!}
-> {7702}{RENE4}{(Stares in shock.) ...another postnatally-aborted wreck in a post-holocaust world replete with idiot man-children. (Raises his fists.) Out of my shop! Get out at once! Don't you come back, you hear?!}
-> {7703}{RENE6}{(Renesco's glare crumbles.) GECK? As in 'Garden of Eden Creation Kit?' Comes with a basic replicator unit, holodisc reader with selections from the library of congress, and a little pen flashlight?}
-> {7704}{RENE8}{Just testing you. There is no second part. Well, if Zaius sent you, I SUPPOSE I have some parts to spare. Here you go. Don't drop them.}
-> {7705}{RENE70}{You STUPID bastard. I TOLD you not to say his name in here. Get out! I see you again, I'll SHOOT YOU DEAD. If Mr. Wright comes looking for me, thinks I killed his boy, YOU'LL die first.}
-> {7706}{RENE71}{You STUPID bitch. I TOLD you not to say his name in here. Get out! I see you again, I'll SHOOT YOU DEAD. If Mr. Wright comes looking for me, thinks I killed his boy, YOU'LL die first.}
-> {7707}{RENE74}{You lose your hearing, boy? I SAID I. PAID. THE. TRIBUTE. ALREADY. *Two weeks ago.* If you were really from Salvatore, you would know that. Now git!}
-> {7708}{RENE75}{You lose your hearing, girl? I SAID I. PAID. THE. TRIBUTE. ALREADY. *Two weeks ago.* If you were really from Salvatore, you would know that. Now git!}
-> {7709}{RENE3}{...another postnatally-aborted wreck in a post-holocaust world replete with idiot man-children. (Raises his fists.) Out of my shop! Get out at once! Don't you come back, you hear?!}
-> {7710}{RENE5}{GECK? As in 'Garden of Eden Creation Kit?' Comes with a basic replicator unit, holodisc reader with selections
->  from the library of congress, and a little pen flashlight?}
-> {7711}{RENE7}{Here you go. Don't drop them.}
+> {7700}{RENE1}{[Старик поправляет разбитые очки и раздраженно вздыхает.] НУ? Чего надо? Ну давайте уже, юноша, выкладывайте!}
+> {7701}{RENE2}{[Старик поправляет разбитые очки и раздраженно вздыхает.] НУ? Чего надо? Ну давайте уже, девушка, выкладывайте!}
+> {7702}{RENE4}{[Обалдело таращится на вас.] ...еще одна жертва аборта в постхолокостовом мире, набитом тупыми человеческими детенышами. [Сжимает кулаки.] Вон из моего магазина! Убирайся немедленно! И не возвращайся, слышишь?!}
+> {7703}{RENE6}{[Сверло взгляда Ренеско раскололось.] ГЭКК? Генератор Эдемских Кущ Компактный? Поставляется с репликатором базовой комплектации, проигрывателем голодисков, набором избранных книг из Библиотеки Конгресса и миниатюрной ручкой-фонариком?}
+> {7704}{RENE8}{Спокойно, просто проверяю. Нет никакой второй части. Что ж, если Зайус тебя послал, ДУМАЮ, у меня есть запчасти для него. Держи. Не ронять.}
+> {7705}{RENE70}{ТУПОЙ ублюдок. Я СКАЗАЛ тебе не произносить это имя здесь. А теперь проваливай. Вернешься - ПРИСТРЕЛЮ. Если мистер Райт придет за мной, думая, что это я убил его ребенка, ТЫ СДОХНЕШЬ в первую очередь.}
+> {7706}{RENE71}{ТУПАЯ сука. Я СКАЗАЛ тебе не произносить это имя здесь. А теперь проваливай. Вернешься - ПРИСТРЕЛЮ. Если мистер Райт придет за мной, думая, что это я убил его ребенка, ТЫ СДОХНЕШЬ в первую очередь.}
+> {7707}{RENE74}{Неожиданно потеряли слух, юноша? Я СКАЗАЛ, что Я. УЖЕ. ЗАПЛАТИЛ. ДАНЬ. *Две недели назад*. Если ты действительно от Сальваторе, тебе бы следовало это знать. А теперь катись!}
+> {7708}{RENE75}{Неожиданно потеряли слух, девушка? Я СКАЗАЛ, что Я. УЖЕ. ЗАПЛАТИЛ. ДАНЬ. *Две недели назад*. Если ты действительно от Сальваторе, тебе бы следовало это знать. А теперь катись!}
+> {7709}{RENE3}{...еще одна жертва аборта в постхолокостовом мире, набитом тупыми человеческими детенышами. [Сжимает кулаки.] Вон из моего магазина! Убирайся немедленно! И не возвращайся, слышишь?!}
+> {7710}{RENE5}{ГЭКК? Генератор Эдемских Кущ Компактный? Поставляется с репликатором базовой комплектации, проигрывателем голодисков, набором избранных книг из Библиотеки Конгресса и миниатюрной ручкой-фонариком?}
+> {7711}{RENE7}{Держи. Не ронять.}
 diff -r dat.org/text/russian/dialog/ncresear.msg dat/text/russian/dialog/ncresear.msg
 35c35
 < {250}{}{(Лысая женщина даже не поднимает головы от своего планшета.) Да?}
@@ -18245,13 +18249,17 @@ diff -r dat.org/text/russian/dialog/ncsalvat.msg dat/text/russian/dialog/ncsalva
 < {675}{}{(Мистер Сальваторе долгое время молча смотрит на тебя, затем говорит.) Семья Сальваторе... будет править Нью-Рино. Если для достижения этой цели должен умереть ребенок, он... умрет. Это единственная причина.}
 ---
 > {675}{SALVA39}{[Мистер Сальваторе долгое время молча смотрит на тебя, затем говорит.] Семья Сальваторе... будет править Нью-Рино. Если для достижения этой цели должен умереть ребенок, он... умрет. Это единственная причина.}
+165c165
+< {5290}{}{... Что ты... от меня ХОЧЕШЬ?}
+---
+> {5290}{}{: Что ты... от меня ХОЧЕШЬ?}
 168a169,174
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{SALVA6}{(Takes a deep breath from his mask, then shakes his head.) You have nothing... that I need to know, Traveller. Now... what do you WANT of me?}
-> {7701}{SALVA7}{(Looks at you silently for a minute. He might be either amused at your question or irritated... it's hard to tell.) Again, Traveller: What... do you WANT of me?}
-> {7702}{SALVA36}{Sit, Traveller. You have done... all I have asked. I would like you to join the Salvatore Family and become... one of my made men.}
-> {7703}{SALVA37}{That is... unfortunate. I cannot take the risk that you will remain... silent about what you have seen in the desert. Goodbye, Traveller.}
+> {7700}{SALVA6}{[Делает глубокий вдох через маску, затем качает головой.] Ты не знаешь ничего... что нужно знать мне, путник. Ну... что ты от меня ХОЧЕШЬ?}
+> {7701}{SALVA7}{[Он молча смотрит на вас примерно минуту. Сказанное вами его то ли позабавило, то ли рассердило - сложно сказать.] Еще раз, путник: Что ты... от меня ХОЧЕШЬ?}
+> {7702}{SALVA36}{Присаживайся, путник. Все сделано тобой... как я просил. Я хотел бы видеть тебя... среди своих людей, как... члена Семьи Сальваторе.}
+> {7703}{SALVA37}{Как... неудачно. Я не могу рискнуть и оставить тебя жить со знанием того, что произошло в пустыне. Прощай, путник.}
 diff -r dat.org/text/russian/dialog/ncslots.msg dat/text/russian/dialog/ncslots.msg
 47,48c47,48
 < {231}{}{(Ваша рука трепещет, когда вы лезете в карман за деньгами. Машина продолжает  нашептывать.) *Давай, мой сладкий... вот так... ну же... не дразни...*}
@@ -19057,10 +19065,14 @@ diff -r dat.org/text/russian/dialog/ocdalia.msg dat/text/russian/dialog/ocdalia.
 < {108}{}{О-о, рада это слышать. Приятно было помочь хотя бы так. Так чем я могу помочь вам сейчас?}
 ---
 > {108}{DAL132}{О-о, рада это слышать. Приятно было помочь хотя бы так. Так чем я могу помочь вам сейчас?}
+12c12
+< {111}{}{Я хочу спросить тебя кое о чем.}
+---
+> {111}{}{Я хочу спросить кое о чем.}
 14c14
 < {113}{}{Что ты хочешь узнать?}
 ---
-> {113}{DAL133}{Что ты хочешь узнать?}
+> {113}{DAL133}{Что вы хотите узнать?}
 27c27
 < {126}{}{Нет. Я здесь по своей собственной воле, и мне здесь нравится. Думаю, для меня это место будет вполне безопасным пристанищем на ближайшее время.}
 ---
@@ -19088,8 +19100,8 @@ diff -r dat.org/text/russian/dialog/ocdalia.msg dat/text/russian/dialog/ocdalia.
 56a57,60
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{DAL131}{Well, I'll be. How are you doing, Wanderer. I hope everything worked out for you at the Squat.}
-> {7701}{DAL1310}{Thanks, Wanderer. That takes a load off my mind.}
+> {7700}{DAL131}{Ба, какие люди! Как у вас дела? Надеюсь, в Сквоте все прошло удачно.}
+> {7701}{DAL1310}{Спасибо вам. Это как гора с плеч.}
 diff -r dat.org/text/russian/dialog/ocdar.msg dat/text/russian/dialog/ocdar.msg
 3c3
 < {102}{}{Вы видите самого обычного когтя смерти. Здоровенная зверюга, с огромным телом, мощными зубами и длинными когтями.}
@@ -21625,7 +21637,7 @@ diff -r dat.org/text/russian/dialog/scwestin.msg dat/text/russian/dialog/scwesti
 77a78,80
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{WEST9}{Fine then. You do the job, I pay you. You say no, you don't get out of here alive. Well?}
+> {7700}{WEST9}{Идет. Вы выполняете работу, я плачу вам. Если скажете нет, вам не выйти отсюда. Ясно?}
 diff -r dat.org/text/russian/dialog/shtandi.msg dat/text/russian/dialog/shtandi.msg
 82c82
 < {181}{tand13}{Вы серьезно? Неужели мы говорим об одном и том же человеке... Когда-то он спас мне жизнь. (фыркает) И пропал. Иногда мне кажется, что это был всего лишь сон, тогда я смотрю на памятник на площади.}
