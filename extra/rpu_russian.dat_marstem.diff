@@ -15715,6 +15715,10 @@ diff -r dat.org/text/russian/dialog/nckitty.msg dat/text/russian/dialog/nckitty.
 < {291}{}{(Подмигивает.) Это бесплатно.}
 ---
 > {291}{}{[Подмигивает] Это бесплатно.}
+58c58
+< {320}{}{Ну конечно, можно. Мы называем это "особый кестинг." }
+---
+> {320}{}{Ну конечно, можно. Мы называем это "особый кестинг". }
 63c63
 < {335}{}{Ну... ходят слухи, что здесь был однажды сотрудник одной известной компьютерной компании, который развлекался беседами с другими людьми. (Пожимает плечами.) }
 ---
@@ -15812,42 +15816,42 @@ diff -r dat.org/text/russian/dialog/nckitty.msg dat/text/russian/dialog/nckitty.
 207a208,245
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{KITTY1}{(The woman before you is stunningly beautiful. As you address her, she looks up from her work, and smiles.) Ah, a new face! I'm Miss Kitty... welcome to the Cat's Paw.  What's your pleasure today, sir?}
-> {7701}{KITTY2}{Hello again! What's your pleasure today, sir?}
-> {7702}{KITTY3}{Why, if it isn't Reno's most famous prizefighter! What's your pleasure today, sir?}
-> {7703}{KITTY4}{I wondered when Mr. Salvatore  would send you over...(Winks.) What's your pleasure today, sir?}
-> {7704}{KITTY5}{I wondered when Mr. Bishop  would send you over...(Winks.) What's your pleasure today, sir?}
-> {7705}{KITTY6}{I wondered when Mr. Mordino  would send you over...(Winks.) What's your pleasure today, sir?}
-> {7706}{KITTY7}{I wondered when Mr. Wright  would send you over...(Winks.) What's your pleasure today, sir?}
-> {7707}{KITTY8}{My, my, if isn't the star of the golden screen.  What's your pleasure today, sir?}
-> {7708}{KITTY9}{(The woman before you is stunningly beautiful. As you address her, she looks up from her work, and smiles.) Ah, a new face! I'm Miss Kitty... welcome to the Cat's Paw.  What's your pleasure today, miss?}
-> {7709}{KITTY10}{Hello again! What's your pleasure today, miss?}
-> {7710}{KITTY11}{Why, if it isn't Reno's most famous prizefighter! What's your pleasure today, miss?}
-> {7711}{KITTY12}{I wondered when Mr. Salvatore  would send you over...(Winks.) What's your pleasure today, miss?}
-> {7712}{KITTY13}{I wondered when Mr. Bishop  would send you over...(Winks.) What's your pleasure today, miss?}
-> {7713}{KITTY14}{I wondered when Mr. Mordino  would send you over...(Winks.) What's your pleasure today, miss?}
-> {7714}{KITTY15}{I wondered when Mr. Wright  would send you over...(Winks.) What's your pleasure today, miss?}
-> {7715}{KITTY16}{My, my, if isn't the star of the golden screen.  What's your pleasure today, miss?}
-> {7716}{KITTY22}{Trust me sweetheart, it's worth the chips. (She lick's her lips slowly)}
-> {7717}{KITTY23}{All right then. (Winks.) That'll be no charge.}
-> {7718}{KITTY24}{Why, of course you can. We call it the 'Kesting special'. If you have the chips, we can go lay down and just chat for a while.}
-> {7719}{KITTY25}{Why, of course you can. We call it the "Kesting special." (Winks.) That'll be no charge.}
-> {7720}{KITTY26}{Well... rumor has it there was once an employee of a famous computer company who enjoyed talking with others. (Shrugs.) By coincidence, he also made no money at all, so talking was all he could afford.}
-> {7721}{KITTY33}{This your friend here? (Looks your companion up and down, nods.) I think we can accommodate you...  (Looks back at you) If you have the chips of course.}
-> {7722}{KITTY34}{(Looks your companion up and down, nods.) I think we can accommodate you...  (Looks back at you) If you have the chips of course.}
-> {7723}{KITTY35}{This your friend here? (Looks your companion up and down, nods.) I think we can accommodate you... Don't worry about the money. There's no charge.}
-> {7724}{KITTY36}{(Looks your companion up and down, nods.) I think we can accommodate you... Don't worry about the money. There's no charge.}
-> {7725}{KITTY45}{Lover! I'm glad you've come back again. Just having a hero like yourself around does wonders for business: risking your life, taking on the Enclave... That's the bravest thing I've ever heard.}
-> {7726}{KITTY48}{You are so humble. I LOVE that about you. (Makes sweeping gesture at Cat's Paw.) You are always welcome here, free of charge.}
-> {7727}{KITTY49}{You are so strong. So... confident. I LOVE that about you. (Makes sweeping gesture at Cat's Paw.) You are always welcome here, free of charge.}
-> {7728}{KITTY50}{All right then, Lover...let me just get my coat.}
-> {7729}{KITTY51}{Oh, Lover, you Enclave-smashing animal...}
-> {7730}{KITTY53}{(Studies you, then makes a circling gesture with her finger.) Turn around for me. Hmmmm... yes... yes, I think you'd do just fine. Are you interested in the job? All of my other girls are... sick of it.}
-> {7731}{KITTY54}{(Studies you, then makes a circling gesture with her finger.) Turn around for me. Hmmmm... no, I don't think you'd make the cut. Maybe if you cleaned yourself up a little more, made yourself... presentable. Sorry.}
-> {7732}{KITTY56}{(Looks you up and down, then nods.) I think we can accommodate you...  Do you have the chips to cover it?}
-> {7733}{KITTY57}{(Looks your companion up and down, then nods.) I think we can accommodate your friend...  Do you have the chips to cover it?}
-> {7734}{KITTY58}{(Looks you up and down, then nods.) I think we can accommodate you... (Winks.) There's no charge, so don't sweat the money.}
-> {7735}{KITTY59}{(Looks your companion up and down, then nods.) I think we can accommodate your friend... (Winks.) There's no charge, so don't sweat the money.}
+> {7700}{KITTY1}{[Женщина перед вами сногсшибательно красива. Когда вы обращаетесь к ней, она отрывается от работы и улыбается.] О, новое лицо! Меня зовут мисс Китти... добро пожаловать в Кошачью лапку. Что вы сегодня пожелаете, сэр?}
+> {7701}{KITTY2}{И снова здравствуйте! Что вы сегодня пожелаете, сэр?}
+> {7702}{KITTY3}{О, это, кажется, самый славный боксер в Рино! Что вы сегодня пожелаете, сэр?}
+> {7703}{KITTY4}{А я-то все думала, когда мистер Сальваторе отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, сэр?}
+> {7704}{KITTY5}{А я-то все думала, когда мистер Бишоп отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, сэр?}
+> {7705}{KITTY6}{А я-то все думала, когда мистер Мордино отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, сэр?}
+> {7706}{KITTY7}{А я-то все думала, когда мистер Райт отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, сэр?}
+> {7707}{KITTY8}{Боже мой, это же звезда золотого экрана! Что вы сегодня пожелаете, сэр?}
+> {7708}{KITTY9}{[Женщина перед вами сногсшибательно красива. Когда вы обращаетесь к ней, она отрывается от работы и улыбается.] О, новое лицо! Меня зовут мисс Китти... добро пожаловать в Кошачью лапку. Что вы сегодня пожелаете, мисс?}
+> {7709}{KITTY10}{И снова здравствуйте! Что вы сегодня пожелаете, мисс?}
+> {7710}{KITTY11}{О, это, кажется, самый славный боксер в Рино! Что вы сегодня пожелаете, мисс?}
+> {7711}{KITTY12}{А я-то все думала, когда мистер Сальваторе отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, мисс?}
+> {7712}{KITTY13}{А я-то все думала, когда мистер Бишоп отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, мисс?}
+> {7713}{KITTY14}{А я-то все думала, когда мистер Мордино отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, мисс?}
+> {7714}{KITTY15}{А я-то все думала, когда мистер Райт отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, мисс?}
+> {7715}{KITTY16}{Боже мой, это же звезда золотого экрана! Что вы сегодня пожелаете, мисс?}
+> {7716}{KITTY22}{Поверь мне, милый, это того стоит. [Она медленно облизывает губы.]}
+> {7717}{KITTY23}{Тогда ладно. [Подмигивает] Это бесплатно.}
+> {7718}{KITTY24}{Ну конечно, можно. Мы называем это "особый кестинг". Если есть деньги, мы можем прямо сейчас пойти и поболтать немного.}
+> {7719}{KITTY25}{Ну конечно, можно. Мы называем это "особый кестинг". [Подмигивает] Это бесплатно.}
+> {7720}{KITTY26}{Ну... ходят слухи, что здесь был однажды сотрудник одной известной компьютерной компании, который развлекался беседами с другими людьми. [пожимает плечами] Так совпало, что он вообще не зарабатывал денег, так что мог позволить себе только разговоры.}
+> {7721}{KITTY33}{Этот вот ваш друг? [Осматривает вашего спутника, кивает.] Я думаю, мы можем обслужить вас... [Оборачивается к вам.] Конечно, если у вас есть деньги.}
+> {7722}{KITTY34}{[Осматривает вашего спутника, кивает.] Я думаю, мы можем обслужить вас... [Оборачивается к вам.] Конечно, если у вас есть деньги.}
+> {7723}{KITTY35}{Этот вот ваш друг? [Осматривает вашего спутника, кивает.] Я думаю, мы можем обслужить вас... Не волнуйтесь о деньгах. Это бесплатно.}
+> {7724}{KITTY36}{[Осматривает вашего спутника, кивает.] Я думаю, мы можем обслужить вас... Не волнуйтесь о деньгах. Это бесплатно.}
+> {7725}{KITTY45}{Любимый! Я рада, что вы вернулись. Когда рядом такой герой - это просто прекрасно для бизнеса... рисковать жизнью, взять Анклав... Это самой смелый поступок, о котором я когда-либо слышала.}
+> {7726}{KITTY48}{Вы так скромны. Я в вас это ОБОЖАЮ. [Широким жестом обводит заведение.] Вам всегда здесь будут рады, бесплатно.}
+> {7727}{KITTY49}{В вас столько силы. Столько... уверенности. Я в вас это ОБОЖАЮ. [Широким жестом обводит заведение.] Вам всегда здесь будут рады, бесплатно.}
+> {7728}{KITTY50}{Тогда ладно, любимый... я только возьму пальто.}
+> {7729}{KITTY51}{О, любимый, ты, громящее Анклав животное...}
+> {7730}{KITTY53}{[Изучает вас, потом делает круговое движение пальцем.] Ну-ка, а со спины как? Гммм... Да... да, я думаю, вы отлично подойдете. Ну что, нужна работа? Всех моих девушек уже... тошнит от нее.}
+> {7731}{KITTY54}{[Изучает вас, потом делает круговое движение пальцем.] Ну-ка, а со спины как? Гммм... нет, не думаю, что ему это понравится. Может, если бы вам помыться, получилось бы... более презентабельно. Прошу прощения.}
+> {7732}{KITTY56}{[Оглядывает вас сверху донизу, затем кивает.] Думаю, я могу вас пристроить... У вас достаточно монет?}
+> {7733}{KITTY57}{[Оглядывает вашего спутника сверху донизу, затем кивает.] Думаю, я могу пристроить вашего спутника...  У вас достаточно монет?}
+> {7734}{KITTY58}{[Оглядывает вас сверху донизу, затем кивает.] Думаю, я могу вас пристроить... [Подмигивает] Это бесплатно, так что не беспокойтесь о деньгах.}
+> {7735}{KITTY59}{[Оглядывает вашего спутника сверху донизу, затем кивает.] Думаю, я могу пристроить вашего спутника... [Подмигивает] Это бесплатно, так что не беспокойтесь о деньгах.}
 diff -r dat.org/text/russian/dialog/nclabish.msg dat/text/russian/dialog/nclabish.msg
 5,6c5,6
 < {200}{}{(Женщина поворачивается к вам. Она довольно привлекательна, одета в платье с глубоким вырезом из шкур золотого гекко. Она изучает вас какое-то время, потом хмурится.) Да, в чем дело?}
@@ -18483,7 +18487,7 @@ diff -r dat.org/text/russian/dialog/ncstulit.msg dat/text/russian/dialog/ncstuli
 < {341}{}{(Еще один шанс. Я по-прежнему получаю 75%, и никаких "но". }
 ---
 > {336}{}{[Пойти своей дорогой.]}
-> {337}{}{[Обильно краснеет.] }
+> {337}{}{[Наливается кровью.] }
 > {340}{}{Еще один шанс. Теперь я получаю 75%, и никаких "но". }
 > {341}{}{Еще один шанс. Я по-прежнему получаю 75%, и никаких "но". }
 78c78
@@ -18506,8 +18510,8 @@ diff -r dat.org/text/russian/dialog/ncstulit.msg dat/text/russian/dialog/ncstuli
 ---
 > {363}{}{[Отправиться на поиски приключений.]}
 > {370}{}{[Карлик неловко улыбается.] }
-> {371}{}{Маго, маго... магов у нас тут нет... магической дури достать могу, друг, волшебных шлюх - тоже... но, в общем, и все. }
-> {372}{}{Маго, маго... магов у нас тут нет... магической дури достать могу, друг, волшебных шлюх мужского пола - тоже... но, в общем, и все. }
+> {371}{}{Маго, маго... магов у нас тут нет... магической дури достать могу, приятель, волшебных шлюх - тоже... но, в общем, и все. }
+> {372}{}{Маго, маго... магов у нас тут нет... магической дури достать могу, дорогуша, волшебных шлюх мужского пола - тоже... но, в общем, и все. }
 98,99c98,99
 < {380}{}{Ну, заставлять не буду, детка, но это мог быть шанс один на миллион, быстрая дорога к звездам, джекпот... если передумаешь - приходи. Ты у нас золото, детка.}
 < {390}{}{Отлично! Начнем цирк!}
@@ -18527,7 +18531,7 @@ diff -r dat.org/text/russian/dialog/ncstulit.msg dat/text/russian/dialog/ncstuli
 < {412}{}{ (Осматривает вас с ног до головы.) Имя к этим ногам прилагается?}
 < {420}{}{(Стюарт кивает.) }
 ---
-> {411}{}{[Берет в зубы зубочистку и начинает ее жевать.] У тебя имя есть?}
+> {411}{}{[Берет в зубы зубочистку и начинает ее жевать.] Имя есть?}
 > {412}{}{[Осматривает вас с ног до головы.] Имя к этим ногам прилагается?}
 > {420}{}{[Стюарт кивает.] }
 117,119c117,119
@@ -18649,29 +18653,29 @@ diff -r dat.org/text/russian/dialog/ncstulit.msg dat/text/russian/dialog/ncstuli
 195a196,220
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-> {7700}{STUL1}{Awright... (Stuart looks you over.) Yer gonna need a name, y'know, a handle. Something that sounds tough. Mean. Like  the Hurricane,  the Brawler, y'know.}
-> {7701}{STUL2}{(The midget studies you as you walk up and takes the toothpick out of his mouth.) Yeah, whatta YOU want, big guy?}
-> {7702}{STUL3}{(The midget studies you as you walk up and takes the toothpick out of his mouth.) What can I do for you, honey?}
-> {7703}{STUL4}{(The midget studies you as you walk up and takes the toothpick out of his mouth.) Hey there, hero. What can I do for you?}
-> {7704}{STUL12}{So you want to go with that name, huh? All right then, Alright, let's go do some damage.}
-> {7705}{STUL14}{(Stuart looks disgusted with you as you're hauled out of the ring.) Get outta my sight, asshead. No hope for you in this town. Beat it!}
-> {7706}{STUL15}{(Stuart looks disgusted with you as you're hauled out of the ring.) I NEVER should have taken a risk on you, what a friggin' disappointment. Now get outta here! Beat it!}
-> {7707}{STUL16}{(Turns red.) What, the Masticator bite your ears off, boy?! I said BEAT it! Get outta here!}
-> {7708}{STUL17}{(Turns red.) What, the Masticator bite your ears off, girl?! I said BEAT it! Get outta here!}
-> {7709}{STUL18}{(Stuart turns red, looks like he is about to start shouting, then simmers down.) Awright. One more chance. I get 75%, no arguments. Screw up again, yer outta here.}
-> {7710}{STUL19}{(Stuart turns red, looks like he is about to start shouting, then simmers down.) Awright. One more chance. I still get 75%, no arguments. Screw up again, yer outta here.}
-> {7711}{STUL20}{(Stuart is smiling like a jackal.) Damn fine performance up there, champ...you doing all right, feeling all right? Let me know when you're ready for your next match.}
-> {7712}{STUL22}{(The midget smiles uneasily.) Well, I can get you some cream, pal... mostly of the whore or drug variety... but that's about it. Now you wanna fight or what?}
-> {7713}{STUL23}{(The midget smiles uneasily.) Well, I can get you some cream, honey... mostly of the male prostitute or drug variety... but that's about it. Now you wanna fight or what?}
-> {7714}{STUL26}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, pal. (Sticks toothpick back in mouth, chews on it.) Got a name?}
-> {7715}{STUL27}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, pal. (Looks you up and down.) Got a name to go with those legs?}
-> {7716}{STUL28}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, darling. (Sticks toothpick back in mouth, chews on it.) Got a name?}
-> {7717}{STUL29}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, darling. (Looks you up and down.) Got a name to go with those legs?}
-> {7718}{STUL31}{(Stuart nods.) Champ... Champ... I like that. Pretty name. Well, it's a pleasure to meet you, Champ. What can I do for you?}
-> {7719}{STUL32}{(Stuart nods.) Awright, Champ. Nice ta meet ya. What can I do for you?}
-> {7720}{STUL34}{(Stuart sneers as you approach.) Well, if it ain't "Jungle Gym's next prize fighter." What brings you back around?}
-> {7721}{STUL35}{(Stuart nods as you approach.) Heeeey, Champ! What's up? Ready to get back in the ring?}
-> {7722}{STUL51}{(The midget nods.) Hmm... Yes... not bad, not bad. It fits. (Nods at the ring.) Shall we get to it, then? You ready?}
+> {7700}{STUL1}{Тэээк... [Стюарт оглядывает вас.] Тебе надо имя, ну знаешь, как знак. Что-то такое крутое. Мощное. Например, Ураган, Драчун, типа того.}
+> {7701}{STUL2}{[Карлик рассматривает вас, пока вы идете к нему, после чего вынимает зубочистку изо рта.] Ну, ЧЕВО нада, здоровяк?}
+> {7702}{STUL3}{[Карлик рассматривает вас, пока вы идете к нему, после чего вынимает зубочистку изо рта.] Чем могу помочь, дорогуша?}
+> {7703}{STUL4}{[Карлик рассматривает вас, пока вы идете к нему, после чего вынимает зубочистку изо рта.] Эй. Чем могу помочь?}
+> {7704}{STUL12}{Значит, с таким именем, ага? Ааа, ладно. Давай теперь набьем кому-нибудь морду.}
+> {7705}{STUL14}{[Стюарт смотрит на вас с отвращением, когда вас утаскивают с ринга.] Уйди с глаз моих, жопоголовик. Для тебя в этом городе надежд нет. Катись!}
+> {7706}{STUL15}{[Стюарт смотрит на вас с отвращением, когда вас утаскивают с ринга.] Я ИДИОТ, что поставил на тебя... какое, едрить его, разочарование. А теперь проваливай отседова! Катись!}
+> {7707}{STUL16}{[Наливается кровью.] Что, парень, тебе Дробитель уши откусил?! Я сказал КАТИСЬ! Проваливай отсюда!}
+> {7708}{STUL17}{[Наливается кровью.] Что, дорогуша, тебе Дробитель уши откусил?! Я сказал КАТИСЬ! Проваливай отсюда!}
+> {7709}{STUL18}{[Лицо Стюарта наливается красным, он уже готов закричать, но быстро остывает.] Черт с тобой. Еще один шанс. Теперь я получаю 75%, и никаких "но". Еще раз просрешь - проваливай с концами.}
+> {7710}{STUL19}{[Лицо Стюарта наливается красным, он уже готов закричать, но быстро остывает.] Черт с тобой. Еще один шанс. Я по-прежнему получаю 75%, и никаких "но". Еще раз просрешь - проваливай с концами.}
+> {7711}{STUL20}{[Стюарт улыбается как шакал.] Отличный матч, чемпион... ты как - чувствуешь себя нормально, все нормально? Как захочешь следующий матч - дай знать.}
+> {7712}{STUL22}{[Карлик неловко улыбается.] Маго, маго... магов у нас тут нет... магической дури достать могу, приятель, волшебных шлюх - тоже... но, в общем, и все. Ну что, будешь драться или как?}
+> {7713}{STUL23}{[Карлик неловко улыбается.] Маго, маго... магов у нас тут нет... магической дури достать могу, дорогуша, волшебных шлюх мужского пола - тоже... но, в общем, и все. Ну что, будешь драться или как?}
+> {7714}{STUL26}{Че... обо мне кто-то НЕ СЛЫШАЛ? Стюарт, Стюарт Литтл - нет? Самый крупный агент во всем Рино? Тебе оказали услугу Когтя Смерти, не рассказав обо мне, друг. [Берет в зубы зубочистку и начинает ее жевать.] Имя есть?}
+> {7715}{STUL27}{Че... обо мне кто-то НЕ СЛЫШАЛ? Стюарт, Стюарт Литтл - нет? Самый крупный агент во всем Рино? Тебе оказали услугу Когтя Смерти, не рассказав обо мне, друг. [Осматривает вас с ног до головы.] Имя к этим ногам прилагается?}
+> {7716}{STUL28}{Че... обо мне кто-то НЕ СЛЫШАЛ? Стюарт, Стюарт Литтл - нет? Самый крупный агент во всем Рино? Тебе оказали услугу Когтя Смерти, не рассказав обо мне, дорогая моя. [Берет в зубы зубочистку и начинает ее жевать.] Имя есть?}
+> {7717}{STUL29}{Че... обо мне кто-то НЕ СЛЫШАЛ? Стюарт, Стюарт Литтл - нет? Самый крупный агент во всем Рино? Тебе оказали услугу Когтя Смерти, не рассказав обо мне, дорогая моя. [Осматривает вас с ног до головы.] Имя к этим ногам прилагается?}
+> {7718}{STUL31}{[Стюарт кивает.] Чемпион... чемпион... Мне нравится. Красивое имя. Ну что ж, приятно познакомиться. Чем могу служить?}
+> {7719}{STUL32}{[Стюарт кивает.] Лладна, чемпион. Типа приятно познакомиться. Чем могу служить?}
+> {7720}{STUL34}{[Стюарт язвительно ухмыляется, увидев вас.] Так-так, это же будущий чемпион из "Джунглей". Каким ветром занесло?}
+> {7721}{STUL35}{[Стюарт вам кивает.] Эээээй, чемпион! Как жизня? Захотелось обратно на ринг?}
+> {7722}{STUL51}{[Карлик кивает.] Хммм... Да... неплохо, неплохо. Пойдет. [кивает на ринг] Ну, что, приступим? Морально все готовы?}
 diff -r dat.org/text/russian/dialog/nctray.msg dat/text/russian/dialog/nctray.msg
 56c56
 < {302}{}{Ты ХОЧЕШЬ? Прям здесь? Ннну... (Оглядывает вас с ног до головы) ...мужик должен делать мужское дело. Ну, ка грицца, за тело.}

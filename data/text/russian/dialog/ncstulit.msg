@@ -69,7 +69,7 @@
 {333}{}{Пнуть злого рыжего дядю.}
 {334}{}{Уйти, громко топая ногами.}
 {336}{}{[Пойти своей дорогой.]}
-{337}{}{[Обильно краснеет.] }
+{337}{}{[Наливается кровью.] }
 {340}{}{Еще один шанс. Теперь я получаю 75%, и никаких "но". }
 {341}{}{Еще один шанс. Я по-прежнему получаю 75%, и никаких "но". }
 {342}{}{Порядок. Хоть сейчас на ринг. Веди меня, Стюарт.}
@@ -89,8 +89,8 @@
 {362}{}{Не-не. МагоЖЕНОЕ.}
 {363}{}{[Отправиться на поиски приключений.]}
 {370}{}{[Карлик неловко улыбается.] }
-{371}{}{Маго, маго... магов у нас тут нет... магической дури достать могу, друг, волшебных шлюх - тоже... но, в общем, и все. }
-{372}{}{Маго, маго... магов у нас тут нет... магической дури достать могу, друг, волшебных шлюх мужского пола - тоже... но, в общем, и все. }
+{371}{}{Маго, маго... магов у нас тут нет... магической дури достать могу, приятель, волшебных шлюх - тоже... но, в общем, и все. }
+{372}{}{Маго, маго... магов у нас тут нет... магической дури достать могу, дорогуша, волшебных шлюх мужского пола - тоже... но, в общем, и все. }
 {373}{}{Ну что, будешь драться или как?}
 {374}{}{Харашо.}
 {375}{}{Моя хотеть нимножка атдахнуть.}
@@ -107,7 +107,7 @@
 {408}{}{"Стюарт Литтл"?}
 {409}{}{К моим ногам прилагается много чего, Стюарт. Так что будь вежлив со мной, иначе тебе станет ЕЩЕ сложнее найти себе подружку в этом городе, намек понят?}
 {410}{}{Вообще-то я просто осматриваюсь. Еще увидимся, Стюарт.}
-{411}{}{[Берет в зубы зубочистку и начинает ее жевать.] У тебя имя есть?}
+{411}{}{[Берет в зубы зубочистку и начинает ее жевать.] Имя есть?}
 {412}{}{[Осматривает вас с ног до головы.] Имя к этим ногам прилагается?}
 {420}{}{[Стюарт кивает.] }
 {421}{}{Лладна, }
@@ -195,26 +195,26 @@
 {3422}{}{. }
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{STUL1}{Awright... (Stuart looks you over.) Yer gonna need a name, y'know, a handle. Something that sounds tough. Mean. Like  the Hurricane,  the Brawler, y'know.}
-{7701}{STUL2}{(The midget studies you as you walk up and takes the toothpick out of his mouth.) Yeah, whatta YOU want, big guy?}
-{7702}{STUL3}{(The midget studies you as you walk up and takes the toothpick out of his mouth.) What can I do for you, honey?}
-{7703}{STUL4}{(The midget studies you as you walk up and takes the toothpick out of his mouth.) Hey there, hero. What can I do for you?}
-{7704}{STUL12}{So you want to go with that name, huh? All right then, Alright, let's go do some damage.}
-{7705}{STUL14}{(Stuart looks disgusted with you as you're hauled out of the ring.) Get outta my sight, asshead. No hope for you in this town. Beat it!}
-{7706}{STUL15}{(Stuart looks disgusted with you as you're hauled out of the ring.) I NEVER should have taken a risk on you, what a friggin' disappointment. Now get outta here! Beat it!}
-{7707}{STUL16}{(Turns red.) What, the Masticator bite your ears off, boy?! I said BEAT it! Get outta here!}
-{7708}{STUL17}{(Turns red.) What, the Masticator bite your ears off, girl?! I said BEAT it! Get outta here!}
-{7709}{STUL18}{(Stuart turns red, looks like he is about to start shouting, then simmers down.) Awright. One more chance. I get 75%, no arguments. Screw up again, yer outta here.}
-{7710}{STUL19}{(Stuart turns red, looks like he is about to start shouting, then simmers down.) Awright. One more chance. I still get 75%, no arguments. Screw up again, yer outta here.}
-{7711}{STUL20}{(Stuart is smiling like a jackal.) Damn fine performance up there, champ...you doing all right, feeling all right? Let me know when you're ready for your next match.}
-{7712}{STUL22}{(The midget smiles uneasily.) Well, I can get you some cream, pal... mostly of the whore or drug variety... but that's about it. Now you wanna fight or what?}
-{7713}{STUL23}{(The midget smiles uneasily.) Well, I can get you some cream, honey... mostly of the male prostitute or drug variety... but that's about it. Now you wanna fight or what?}
-{7714}{STUL26}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, pal. (Sticks toothpick back in mouth, chews on it.) Got a name?}
-{7715}{STUL27}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, pal. (Looks you up and down.) Got a name to go with those legs?}
-{7716}{STUL28}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, darling. (Sticks toothpick back in mouth, chews on it.) Got a name?}
-{7717}{STUL29}{Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, darling. (Looks you up and down.) Got a name to go with those legs?}
-{7718}{STUL31}{(Stuart nods.) Champ... Champ... I like that. Pretty name. Well, it's a pleasure to meet you, Champ. What can I do for you?}
-{7719}{STUL32}{(Stuart nods.) Awright, Champ. Nice ta meet ya. What can I do for you?}
-{7720}{STUL34}{(Stuart sneers as you approach.) Well, if it ain't "Jungle Gym's next prize fighter." What brings you back around?}
-{7721}{STUL35}{(Stuart nods as you approach.) Heeeey, Champ! What's up? Ready to get back in the ring?}
-{7722}{STUL51}{(The midget nods.) Hmm... Yes... not bad, not bad. It fits. (Nods at the ring.) Shall we get to it, then? You ready?}
+{7700}{STUL1}{Тэээк... [Стюарт оглядывает вас.] Тебе надо имя, ну знаешь, как знак. Что-то такое крутое. Мощное. Например, Ураган, Драчун, типа того.}
+{7701}{STUL2}{[Карлик рассматривает вас, пока вы идете к нему, после чего вынимает зубочистку изо рта.] Ну, ЧЕВО нада, здоровяк?}
+{7702}{STUL3}{[Карлик рассматривает вас, пока вы идете к нему, после чего вынимает зубочистку изо рта.] Чем могу помочь, дорогуша?}
+{7703}{STUL4}{[Карлик рассматривает вас, пока вы идете к нему, после чего вынимает зубочистку изо рта.] Эй. Чем могу помочь?}
+{7704}{STUL12}{Значит, с таким именем, ага? Ааа, ладно. Давай теперь набьем кому-нибудь морду.}
+{7705}{STUL14}{[Стюарт смотрит на вас с отвращением, когда вас утаскивают с ринга.] Уйди с глаз моих, жопоголовик. Для тебя в этом городе надежд нет. Катись!}
+{7706}{STUL15}{[Стюарт смотрит на вас с отвращением, когда вас утаскивают с ринга.] Я ИДИОТ, что поставил на тебя... какое, едрить его, разочарование. А теперь проваливай отседова! Катись!}
+{7707}{STUL16}{[Наливается кровью.] Что, парень, тебе Дробитель уши откусил?! Я сказал КАТИСЬ! Проваливай отсюда!}
+{7708}{STUL17}{[Наливается кровью.] Что, дорогуша, тебе Дробитель уши откусил?! Я сказал КАТИСЬ! Проваливай отсюда!}
+{7709}{STUL18}{[Лицо Стюарта наливается красным, он уже готов закричать, но быстро остывает.] Черт с тобой. Еще один шанс. Теперь я получаю 75%, и никаких "но". Еще раз просрешь - проваливай с концами.}
+{7710}{STUL19}{[Лицо Стюарта наливается красным, он уже готов закричать, но быстро остывает.] Черт с тобой. Еще один шанс. Я по-прежнему получаю 75%, и никаких "но". Еще раз просрешь - проваливай с концами.}
+{7711}{STUL20}{[Стюарт улыбается как шакал.] Отличный матч, чемпион... ты как - чувствуешь себя нормально, все нормально? Как захочешь следующий матч - дай знать.}
+{7712}{STUL22}{[Карлик неловко улыбается.] Маго, маго... магов у нас тут нет... магической дури достать могу, приятель, волшебных шлюх - тоже... но, в общем, и все. Ну что, будешь драться или как?}
+{7713}{STUL23}{[Карлик неловко улыбается.] Маго, маго... магов у нас тут нет... магической дури достать могу, дорогуша, волшебных шлюх мужского пола - тоже... но, в общем, и все. Ну что, будешь драться или как?}
+{7714}{STUL26}{Че... обо мне кто-то НЕ СЛЫШАЛ? Стюарт, Стюарт Литтл - нет? Самый крупный агент во всем Рино? Тебе оказали услугу Когтя Смерти, не рассказав обо мне, друг. [Берет в зубы зубочистку и начинает ее жевать.] Имя есть?}
+{7715}{STUL27}{Че... обо мне кто-то НЕ СЛЫШАЛ? Стюарт, Стюарт Литтл - нет? Самый крупный агент во всем Рино? Тебе оказали услугу Когтя Смерти, не рассказав обо мне, друг. [Осматривает вас с ног до головы.] Имя к этим ногам прилагается?}
+{7716}{STUL28}{Че... обо мне кто-то НЕ СЛЫШАЛ? Стюарт, Стюарт Литтл - нет? Самый крупный агент во всем Рино? Тебе оказали услугу Когтя Смерти, не рассказав обо мне, дорогая моя. [Берет в зубы зубочистку и начинает ее жевать.] Имя есть?}
+{7717}{STUL29}{Че... обо мне кто-то НЕ СЛЫШАЛ? Стюарт, Стюарт Литтл - нет? Самый крупный агент во всем Рино? Тебе оказали услугу Когтя Смерти, не рассказав обо мне, дорогая моя. [Осматривает вас с ног до головы.] Имя к этим ногам прилагается?}
+{7718}{STUL31}{[Стюарт кивает.] Чемпион... чемпион... Мне нравится. Красивое имя. Ну что ж, приятно познакомиться. Чем могу служить?}
+{7719}{STUL32}{[Стюарт кивает.] Лладна, чемпион. Типа приятно познакомиться. Чем могу служить?}
+{7720}{STUL34}{[Стюарт язвительно ухмыляется, увидев вас.] Так-так, это же будущий чемпион из "Джунглей". Каким ветром занесло?}
+{7721}{STUL35}{[Стюарт вам кивает.] Эээээй, чемпион! Как жизня? Захотелось обратно на ринг?}
+{7722}{STUL51}{[Карлик кивает.] Хммм... Да... неплохо, неплохо. Пойдет. [кивает на ринг] Ну, что, приступим? Морально все готовы?}

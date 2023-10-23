@@ -55,7 +55,7 @@
 {294}{}{Ну что ж, торговаться не буду. Давайте.}
 {295}{}{Неважно. Мне бы хотелось спросить вас кое о чем...}
 {296}{}{У меня нет столько денег... может, в другой раз.}
-{320}{}{Ну конечно, можно. Мы называем это "особый кестинг." }
+{320}{}{Ну конечно, можно. Мы называем это "особый кестинг". }
 {322}{}{Это стоит всего }
 {323}{}{Почему вы так это называете?}
 {325}{}{Звучит заманчиво. По рукам.}
@@ -207,39 +207,39 @@
 {1336}{}{ монет в неделю.}
 
 #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
-{7700}{KITTY1}{(The woman before you is stunningly beautiful. As you address her, she looks up from her work, and smiles.) Ah, a new face! I'm Miss Kitty... welcome to the Cat's Paw.  What's your pleasure today, sir?}
-{7701}{KITTY2}{Hello again! What's your pleasure today, sir?}
-{7702}{KITTY3}{Why, if it isn't Reno's most famous prizefighter! What's your pleasure today, sir?}
-{7703}{KITTY4}{I wondered when Mr. Salvatore  would send you over...(Winks.) What's your pleasure today, sir?}
-{7704}{KITTY5}{I wondered when Mr. Bishop  would send you over...(Winks.) What's your pleasure today, sir?}
-{7705}{KITTY6}{I wondered when Mr. Mordino  would send you over...(Winks.) What's your pleasure today, sir?}
-{7706}{KITTY7}{I wondered when Mr. Wright  would send you over...(Winks.) What's your pleasure today, sir?}
-{7707}{KITTY8}{My, my, if isn't the star of the golden screen.  What's your pleasure today, sir?}
-{7708}{KITTY9}{(The woman before you is stunningly beautiful. As you address her, she looks up from her work, and smiles.) Ah, a new face! I'm Miss Kitty... welcome to the Cat's Paw.  What's your pleasure today, miss?}
-{7709}{KITTY10}{Hello again! What's your pleasure today, miss?}
-{7710}{KITTY11}{Why, if it isn't Reno's most famous prizefighter! What's your pleasure today, miss?}
-{7711}{KITTY12}{I wondered when Mr. Salvatore  would send you over...(Winks.) What's your pleasure today, miss?}
-{7712}{KITTY13}{I wondered when Mr. Bishop  would send you over...(Winks.) What's your pleasure today, miss?}
-{7713}{KITTY14}{I wondered when Mr. Mordino  would send you over...(Winks.) What's your pleasure today, miss?}
-{7714}{KITTY15}{I wondered when Mr. Wright  would send you over...(Winks.) What's your pleasure today, miss?}
-{7715}{KITTY16}{My, my, if isn't the star of the golden screen.  What's your pleasure today, miss?}
-{7716}{KITTY22}{Trust me sweetheart, it's worth the chips. (She lick's her lips slowly)}
-{7717}{KITTY23}{All right then. (Winks.) That'll be no charge.}
-{7718}{KITTY24}{Why, of course you can. We call it the 'Kesting special'. If you have the chips, we can go lay down and just chat for a while.}
-{7719}{KITTY25}{Why, of course you can. We call it the "Kesting special." (Winks.) That'll be no charge.}
-{7720}{KITTY26}{Well... rumor has it there was once an employee of a famous computer company who enjoyed talking with others. (Shrugs.) By coincidence, he also made no money at all, so talking was all he could afford.}
-{7721}{KITTY33}{This your friend here? (Looks your companion up and down, nods.) I think we can accommodate you...  (Looks back at you) If you have the chips of course.}
-{7722}{KITTY34}{(Looks your companion up and down, nods.) I think we can accommodate you...  (Looks back at you) If you have the chips of course.}
-{7723}{KITTY35}{This your friend here? (Looks your companion up and down, nods.) I think we can accommodate you... Don't worry about the money. There's no charge.}
-{7724}{KITTY36}{(Looks your companion up and down, nods.) I think we can accommodate you... Don't worry about the money. There's no charge.}
-{7725}{KITTY45}{Lover! I'm glad you've come back again. Just having a hero like yourself around does wonders for business: risking your life, taking on the Enclave... That's the bravest thing I've ever heard.}
-{7726}{KITTY48}{You are so humble. I LOVE that about you. (Makes sweeping gesture at Cat's Paw.) You are always welcome here, free of charge.}
-{7727}{KITTY49}{You are so strong. So... confident. I LOVE that about you. (Makes sweeping gesture at Cat's Paw.) You are always welcome here, free of charge.}
-{7728}{KITTY50}{All right then, Lover...let me just get my coat.}
-{7729}{KITTY51}{Oh, Lover, you Enclave-smashing animal...}
-{7730}{KITTY53}{(Studies you, then makes a circling gesture with her finger.) Turn around for me. Hmmmm... yes... yes, I think you'd do just fine. Are you interested in the job? All of my other girls are... sick of it.}
-{7731}{KITTY54}{(Studies you, then makes a circling gesture with her finger.) Turn around for me. Hmmmm... no, I don't think you'd make the cut. Maybe if you cleaned yourself up a little more, made yourself... presentable. Sorry.}
-{7732}{KITTY56}{(Looks you up and down, then nods.) I think we can accommodate you...  Do you have the chips to cover it?}
-{7733}{KITTY57}{(Looks your companion up and down, then nods.) I think we can accommodate your friend...  Do you have the chips to cover it?}
-{7734}{KITTY58}{(Looks you up and down, then nods.) I think we can accommodate you... (Winks.) There's no charge, so don't sweat the money.}
-{7735}{KITTY59}{(Looks your companion up and down, then nods.) I think we can accommodate your friend... (Winks.) There's no charge, so don't sweat the money.}
+{7700}{KITTY1}{[Женщина перед вами сногсшибательно красива. Когда вы обращаетесь к ней, она отрывается от работы и улыбается.] О, новое лицо! Меня зовут мисс Китти... добро пожаловать в Кошачью лапку. Что вы сегодня пожелаете, сэр?}
+{7701}{KITTY2}{И снова здравствуйте! Что вы сегодня пожелаете, сэр?}
+{7702}{KITTY3}{О, это, кажется, самый славный боксер в Рино! Что вы сегодня пожелаете, сэр?}
+{7703}{KITTY4}{А я-то все думала, когда мистер Сальваторе отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, сэр?}
+{7704}{KITTY5}{А я-то все думала, когда мистер Бишоп отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, сэр?}
+{7705}{KITTY6}{А я-то все думала, когда мистер Мордино отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, сэр?}
+{7706}{KITTY7}{А я-то все думала, когда мистер Райт отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, сэр?}
+{7707}{KITTY8}{Боже мой, это же звезда золотого экрана! Что вы сегодня пожелаете, сэр?}
+{7708}{KITTY9}{[Женщина перед вами сногсшибательно красива. Когда вы обращаетесь к ней, она отрывается от работы и улыбается.] О, новое лицо! Меня зовут мисс Китти... добро пожаловать в Кошачью лапку. Что вы сегодня пожелаете, мисс?}
+{7709}{KITTY10}{И снова здравствуйте! Что вы сегодня пожелаете, мисс?}
+{7710}{KITTY11}{О, это, кажется, самый славный боксер в Рино! Что вы сегодня пожелаете, мисс?}
+{7711}{KITTY12}{А я-то все думала, когда мистер Сальваторе отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, мисс?}
+{7712}{KITTY13}{А я-то все думала, когда мистер Бишоп отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, мисс?}
+{7713}{KITTY14}{А я-то все думала, когда мистер Мордино отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, мисс?}
+{7714}{KITTY15}{А я-то все думала, когда мистер Райт отправит вас к нам... [Подмигивает] Что вы сегодня пожелаете, мисс?}
+{7715}{KITTY16}{Боже мой, это же звезда золотого экрана! Что вы сегодня пожелаете, мисс?}
+{7716}{KITTY22}{Поверь мне, милый, это того стоит. [Она медленно облизывает губы.]}
+{7717}{KITTY23}{Тогда ладно. [Подмигивает] Это бесплатно.}
+{7718}{KITTY24}{Ну конечно, можно. Мы называем это "особый кестинг". Если есть деньги, мы можем прямо сейчас пойти и поболтать немного.}
+{7719}{KITTY25}{Ну конечно, можно. Мы называем это "особый кестинг". [Подмигивает] Это бесплатно.}
+{7720}{KITTY26}{Ну... ходят слухи, что здесь был однажды сотрудник одной известной компьютерной компании, который развлекался беседами с другими людьми. [пожимает плечами] Так совпало, что он вообще не зарабатывал денег, так что мог позволить себе только разговоры.}
+{7721}{KITTY33}{Этот вот ваш друг? [Осматривает вашего спутника, кивает.] Я думаю, мы можем обслужить вас... [Оборачивается к вам.] Конечно, если у вас есть деньги.}
+{7722}{KITTY34}{[Осматривает вашего спутника, кивает.] Я думаю, мы можем обслужить вас... [Оборачивается к вам.] Конечно, если у вас есть деньги.}
+{7723}{KITTY35}{Этот вот ваш друг? [Осматривает вашего спутника, кивает.] Я думаю, мы можем обслужить вас... Не волнуйтесь о деньгах. Это бесплатно.}
+{7724}{KITTY36}{[Осматривает вашего спутника, кивает.] Я думаю, мы можем обслужить вас... Не волнуйтесь о деньгах. Это бесплатно.}
+{7725}{KITTY45}{Любимый! Я рада, что вы вернулись. Когда рядом такой герой - это просто прекрасно для бизнеса... рисковать жизнью, взять Анклав... Это самой смелый поступок, о котором я когда-либо слышала.}
+{7726}{KITTY48}{Вы так скромны. Я в вас это ОБОЖАЮ. [Широким жестом обводит заведение.] Вам всегда здесь будут рады, бесплатно.}
+{7727}{KITTY49}{В вас столько силы. Столько... уверенности. Я в вас это ОБОЖАЮ. [Широким жестом обводит заведение.] Вам всегда здесь будут рады, бесплатно.}
+{7728}{KITTY50}{Тогда ладно, любимый... я только возьму пальто.}
+{7729}{KITTY51}{О, любимый, ты, громящее Анклав животное...}
+{7730}{KITTY53}{[Изучает вас, потом делает круговое движение пальцем.] Ну-ка, а со спины как? Гммм... Да... да, я думаю, вы отлично подойдете. Ну что, нужна работа? Всех моих девушек уже... тошнит от нее.}
+{7731}{KITTY54}{[Изучает вас, потом делает круговое движение пальцем.] Ну-ка, а со спины как? Гммм... нет, не думаю, что ему это понравится. Может, если бы вам помыться, получилось бы... более презентабельно. Прошу прощения.}
+{7732}{KITTY56}{[Оглядывает вас сверху донизу, затем кивает.] Думаю, я могу вас пристроить... У вас достаточно монет?}
+{7733}{KITTY57}{[Оглядывает вашего спутника сверху донизу, затем кивает.] Думаю, я могу пристроить вашего спутника...  У вас достаточно монет?}
+{7734}{KITTY58}{[Оглядывает вас сверху донизу, затем кивает.] Думаю, я могу вас пристроить... [Подмигивает] Это бесплатно, так что не беспокойтесь о деньгах.}
+{7735}{KITTY59}{[Оглядывает вашего спутника сверху донизу, затем кивает.] Думаю, я могу пристроить вашего спутника... [Подмигивает] Это бесплатно, так что не беспокойтесь о деньгах.}
