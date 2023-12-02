@@ -21489,6 +21489,11 @@ diff -r dat.org/text/russian/dialog/schenry.msg dat/text/russian/dialog/schenry.
 69a70,71
 > 
 > #BONUS LINES NEEDED FOR THE TALKING HEADS MOD
+diff -r dat.org/text/russian/dialog/schoss.msg dat/text/russian/dialog/schoss.msg
+13c13
+< {112}{}{Ха! Ну и клоун. Вали отсюда, сыкун.}
+---
+> {112}{}{Ха! Ну и клоун. Вали отсюда, cсыкун.}
 diff -r dat.org/text/russian/dialog/sckarl.msg dat/text/russian/dialog/sckarl.msg
 10c10
 < {109}{}{Меня зовут }
